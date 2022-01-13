@@ -1,6 +1,6 @@
 {% include links.html %}
 
-### [Spring 2022 -- Basic Course Info]:
+### [Spring 2022 -- Basic Info]:
 
 **Instructor**: Andre Wibisono <br>
 **Times**: Tu/Th 2:30-3:45pm EST <br>
