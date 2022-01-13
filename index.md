@@ -8,6 +8,7 @@
 **Zoom**: tbd <br>
 
 <h3><span style="background-color: #fdffc4">Announcements</span></h3>
+
 * [Pset 1](/psets) posted
 
 
