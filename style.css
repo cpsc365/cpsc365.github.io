@@ -1,0 +1,20 @@
+body {
+    max-width: 680px;
+    background-color:white;    font-size: 14px;
+    margin-bottom:100px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 750px) {
+  body {
+    width: 100%;
+    max-width: 90%;   
+    text-align: left;
+    size: 50%;
+    /* font-size: 18px; */
+  }  
+  .header {
+    margin-top: 1em;
+  }
+}
