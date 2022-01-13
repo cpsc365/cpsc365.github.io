@@ -1,7 +1,5 @@
 {% include links.html %}
 
------
-
 ### Course Info:
 
 Instructor: Andre Wibisono 
