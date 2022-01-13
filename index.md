@@ -2,10 +2,14 @@
 
 ### [Spring 2022 -- Basic Info]:
 
-> **Instructor**: Andre Wibisono <br>
-> **Times**: Tu/Th 2:30-3:45pm EST <br>
-> **Location**: DL 220 <br>
-> **Zoom**: tbd <br>
+<blockquote style="color: black; border-left: 5px solid #0366d6; ">
+  <p>
+    <b>Instructor</b>: Andre Wibisono <br>
+    <b>Times</b>: Tu/Th 2:30-3:45pm EST <br>
+    <b>Location</b>: DL 220 <br>
+    <b>Zoom</b>: tbd <br>
+  </p>
+</blockquote>
 
 <h1></h1>
 
