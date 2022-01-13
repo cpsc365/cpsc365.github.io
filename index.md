@@ -3,6 +3,10 @@
 
 {% include links.html %}
 
+-----
+
+Add course info summary
+
 
 Todo: add header/footer
 
