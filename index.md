@@ -13,6 +13,6 @@
 <h3><span style="background-color: #fdffc4">[Announcements]</span></h3>
   
 * *Jan 19*: [Pset 1](/psets) posted; due Feb 1.
-* *test*
+* *Jan 19*: Please sign up for [Gradescope]() and [Ed]()
 
 
