@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Spring 2022 Course Website
 
 **Quick Links**: 
