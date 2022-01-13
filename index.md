@@ -1,7 +1,5 @@
 {% include links.html %}
 
-#
-
 ### [Basic Course Info]:
 
 
@@ -10,7 +8,7 @@
 **Location**: DL 220 <br>
 **Zoom**: tbd <br>
 
-#
+<h1>
 
 <h3><span style="background-color: #fdffc4">
   [Announcements]</span>
@@ -19,10 +17,4 @@
 
 * *Jan 19*: [Pset 1](/psets) posted; due Feb 1.
 
-
-
-Add course info summary
-
-
-Todo: add header/footer
 
