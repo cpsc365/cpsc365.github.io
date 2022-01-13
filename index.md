@@ -1,11 +1,12 @@
 {% include links.html %}
 
-### [Spring 2022 -- Basic Info]:
+### [Spring 2022 Info]:
 
-* Instructor: Andre Wibisono
-* Times: Tu/Th 2:30-3:45pm EST
-* Location: DL 220
-* Zoom: tbd
+* **Instructor**: Andre Wibisono
+* **Times**: Tu/Th 2:30-3:45pm EST
+* **Location**: DL 220
+* **Zoom**: tbd
+* full [syllabus, staff, more info](/info)
 
 <h1></h1>
 
