@@ -1,4 +1,11 @@
-### Yale CPSC 365: Spring 2022
+### Spring 2022 Course Website
+
+**Quick Links**: 
+[calendar](/calendar) //
+[notes](/calendar) //
+[psets](/psets) // 
+[discs.](/dicusssions) // 
+[staff](/staff)
 
 More to come...
 
