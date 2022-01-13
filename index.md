@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 
 ---
 
 ### Spring 2022 Course Website
