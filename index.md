@@ -6,7 +6,7 @@
 * **Times**: Tu/Th 2:30-3:45pm EST
 * **Location**: DL 220
 * **Zoom**: tbd
-* full [syllabus, staff, more info](/info)
+* Full [syllabus, staff list, policies, and tips.](/info)
 
 <h1></h1>
 
