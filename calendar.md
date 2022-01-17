@@ -2,7 +2,12 @@
 
 ### Course Calendar
 
+**Office Hours Schedule**
+
 
 TODO: add gcal link with office hours time??
 
-![Tentative Calendar:](../files/365s22-schedule-FULL.draft.png)
+
+**Tentative Course Plan**
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQBhAM7hn0YVx_Sb2Qkt4_s5cOI_sLMry60Qy15-lR46gqVHuR8Kx1ZQxy2YTL0Zr9muVX3cGmLYfM/pubhtml?widget=true&amp;headers=false"></iframe>
