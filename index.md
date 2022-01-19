@@ -9,45 +9,53 @@ Welcome to the course page for CSPC365 in Spring 2022
 
 <h1></h1>
 
-<h3><span style="background-color: #fdffc4">Announcements</span></h3>
+### Announcements
   
 * *Jan 19*: [Pset 1](/psets) posted; due Feb 1.
 * *Jan 19*: Please sign up for [Gradescope]() and [Ed]()
 
 <h1></h1>
-<h3><span style="background-color: #fdffc4">Course Content</span></h3>
+
+### Course Content
 
 * **Class 1, Tue Jan 25: Introduction**
   * [Link to live session](https://yale.zoom.us/my/wibisono)
   * *Reading*: 
-    * Section 1.1 - 1.2
+    * Textbook Section 1.1 - 1.2
   * *Problem set*: 
-    * [Pset 1](/psets) posted; due Feb 1
+    * [Pset 1](/psets) posted; due Feb 1 2:30pm
   * *Lecture note*:
+    * will be released after lecture
   * *Videos*:
+    * will be released after lecture
   
 * **Class 2, Thu Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/my/wibisono)
   * *Reading*: 
-    * Section 1.1 - 1.2
+    * Textbook Section 1.1 - 1.2
   * *Lecture note*:
+    * will be released after lecture
   * *Videos*:
+    * will be released after lecture
 
 * **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
   * *Reading*: 
     * Section 2
   * *Problem set*: 
     * Due [Pset 1](/psets); submit to [Gradescope]()
-    * [Pset 2](/psets) posted; due Feb 15
+    * [Pset 2](/psets) posted; due Feb 8
   * *Lecture note*:
+    * will be released after lecture
   * *Videos*:
+    * will be released after lecture
  
  * **Class 4, Thu Feb 3: Review on Graphs**
    * *Reading*: 
      * Section 3
    * *Lecture note*:
-   * *Videos*:
- 
+     * will be released after lecture
+   * *Videos*
+     * will be released after lecture
 
 
 
