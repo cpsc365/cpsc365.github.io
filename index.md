@@ -1,7 +1,5 @@
 {% include links.html %}
   
-### CPSC365: Algorithms 
-
 Welcome to the course page for CSPC365 in Spring 2022
 
 * **Instructor**: Andre Wibisono
