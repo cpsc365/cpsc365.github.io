@@ -9,12 +9,9 @@ Welcome to the course page for CSPC365 in Spring 2022
 * **Instructor**: Andre Wibisono
 * **Times**: Tu/Th 2:30-3:45pm EST
 * **Location**: DL 220
-* **Zoom**: [https://yale.zoom.us/my/wibisono](https://yale.zoom.us/my/wibisono)
 * [Click to view the syllabus]() 
 
-
 <h1></h1>
-
 
 <h3><span style="background-color: #fdffc4">Announcements</span></h3>
   
@@ -29,24 +26,31 @@ Welcome to the course page for CSPC365 in Spring 2022
   * *Reading*: 
     * Section 1.1 - 1.2
   * *Problem set*: 
-    * [Pset 1](/psets); due Tue Feb 1
+    * [Pset 1](/psets) posted; due Feb 1
   * *Lecture note*:
   * *Videos*:
   
-* **Class 2, Thr Jan 27: Stable Matching Problem**
+* **Class 2, Thu Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/my/wibisono)
   * *Reading*: 
     * Section 1.1 - 1.2
   * *Lecture note*:
   * *Videos*:
 
-* **Class 3, Thr Jan 27: Stable Matching Problem**
-  * [Link to live session](https://yale.zoom.us/my/wibisono)
+* **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
   * *Reading*: 
-    * Section 1.1 - 1.2
+    * Section 2
+  * *Problem set*: 
+    * Due [Pset 1](/psets); submit to [Gradescope]()
+    * [Pset 2](/psets) posted; due Feb 15
   * *Lecture note*:
   * *Videos*:
-  
+ 
+ * **Class 4, Thu Feb 3: Review on Graphs**
+   * *Reading*: 
+     * Section 3
+   * *Lecture note*:
+   * *Videos*:
  
 
 
