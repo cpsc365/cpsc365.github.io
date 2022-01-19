@@ -1,6 +1,6 @@
 {% include links.html %}
 
-[[Discussions]]()   [[Office Hours]]()   [[Staffs]]()   [[Resources]]()   [[Policies]](/policies) 
+[[Discussions]]()   [[Office Hours]]()   [[Staffs]]()   [[Resources]]()   [[Policies]](/policies.md) 
   
 ### CPSC365: Algorithms 
 
