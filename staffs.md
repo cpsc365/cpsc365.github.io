@@ -1,12 +1,12 @@
 ## CPSC365 Staffs
 
-#### Professor 
+### Professor 
 Andre Wibisono 
 
-#### Teaching Fellow
+### Teaching Fellow
 John Lazarsfeld
 
-#### Course Manager
+### Course Manager
 
 Inyoung Shin
 
