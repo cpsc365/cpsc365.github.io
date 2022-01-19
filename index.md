@@ -1,6 +1,6 @@
 {% include links.html %}
 
-[[Syllabus]]()   [[Discussions]]()   [[Office Hours]]()   [[Staffs]]()   [[Resources]]()   [[Polices]]() 
+[[Discussions]]()   [[Office Hours]]()   [[Staffs]]()   [[Resources]]()   [[Polices]]() 
   
 ### CPSC365: Algorithms 
 
@@ -10,6 +10,7 @@ Welcome to the course page for CSPC365 in Spring 2022
 * **Times**: Tu/Th 2:30-3:45pm EST
 * **Location**: DL 220
 * **Zoom**: [https://yale.zoom.us/my/wibisono](https://yale.zoom.us/my/wibisono)
+* [Click to view the syllabus]() 
 
 
 <h1></h1>
@@ -28,7 +29,7 @@ Welcome to the course page for CSPC365 in Spring 2022
   * *Reading*: 
     * Section 1.1 - 1.2
   * *Problem set*: 
-    * [PS1](/psets); due Tue Feb 1
+    * [Pset 1](/psets); due Tue Feb 1
   * *Lecture note*:
   * *Videos*:
   
