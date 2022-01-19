@@ -16,8 +16,7 @@
 * C: 70 - 80%
 * D: 60 - 70%
 * F: 0 - 60%
- 
-Can announce later. Cutoffs may be adjusted in the downward direction to improve grades.
+ > **note:** Can announce later. Cutoffs may be adjusted in the downward direction to improve grades.
 
 ### Late policy:
 * No late PS submissions except via late days or official excuse
