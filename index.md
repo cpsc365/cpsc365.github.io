@@ -40,6 +40,12 @@ Welcome to the course page for CSPC365 in Spring 2022
   * *Lecture note*:
   * *Videos*:
 
+* **Class 3, Thr Jan 27: Stable Matching Problem**
+  * [Link to live session](https://yale.zoom.us/my/wibisono)
+  * *Reading*: 
+    * Section 1.1 - 1.2
+  * *Lecture note*:
+  * *Videos*:
   
  
 
