@@ -14,9 +14,7 @@ Inyoung Shin
 
 **Alex Chen** 
 <figure>
-    <img src=""
-         alt="Alex Chen">
-    <figcaption></figcaption>
+    <img src="">
 </figure>
 
 OH: xxxxx
