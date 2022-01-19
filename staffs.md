@@ -1,33 +1,46 @@
-#### Staff List
+## CPSC365 Staffs
 
-Instroctor:Andre Wibisono 
+#### Professor 
+Andre Wibisono 
 
-Teaching Fellow: John Lazarsfeld
+#### Teaching Fellow
+John Lazarsfeld
 
-Course Manager: Inyoung Shin
+#### Course Manager
 
-ULAs
+Inyoung Shin
 
-Alex Chen 
+### ULA
 
-Nevin George
+**Alex Chen** 
+<figure>
+    <img src=""
+         alt="Alex Chen">
+    <figcaption></figcaption>
+</figure>
 
-Michal Gerasimiuk
+OH: xxxxx
 
-Rohit Giridharan
+Hello! My name is Alex and I'm a junior studying Computer Science and Ethics, Politics, & Economics. I'm interested in civic tech, product management, and human-centered design. I enjoy writing poetry with TEETH Poets, playing music with friends, and painting at the CEID!
 
-Michelle Goh
+**Nevin George**
 
-Adit Gupta
+**Michal Gerasimiuk**
 
-Clara Schwab
+**Rohit Giridharan**
 
-Alden Tan
+**Michelle Goh**
 
-Andrew Wei
+**Adit Gupta**
 
-Eric Xue
+**Clara Schwab**
 
-Andrew Yuan
+**Alden Tan**
 
-Matthew Zhang
+**Andrew Wei**
+
+**Eric Xue**
+
+**Andrew Yuan**
+
+**Matthew Zhang**
