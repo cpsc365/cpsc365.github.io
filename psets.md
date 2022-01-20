@@ -14,4 +14,4 @@
 
 ### Discussion Problems
 
-* Discussion 1
+* Discussion 1: 
