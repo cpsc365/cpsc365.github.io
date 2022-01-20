@@ -12,9 +12,10 @@ Inyoung Shin
 
 ### ULA
 
-**Alex Chen** 
+**Alex Chen**
+
 <figure>
-    <img src="">
+    <img src="files/maineSquare - Alex Chen.jpg" width="140" height="150">
 </figure>
 
 OH: xxxxx
