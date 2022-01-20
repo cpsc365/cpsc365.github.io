@@ -1,17 +1,23 @@
 {% include links.html %}
 
-### Problem Sets
+## Problem Sets
 
-* Pset 1, Due Tue Feb 1 @ 2:30pm:
+|  Problem Set|    Due date        | Solution |
+| :---:       |   :----:           |  :----:  |
+| [PS 1](/)        |  Tue Feb 1 @ 2:30pm|-          |
+| [PS 2]       |  Tue Feb 8 @ 2:30pm| -         |
+| PS 3        |  Tue Feb 22 @ 2:30pm| -         |
+| PS 4        |          -          |  -        |
+| PS 5        |          -          | -
+| PS 6        |          -           |-          |
 
-  will be posted on Jan 25
 
 
-* Pset 2, Due Tue Feb 8 @ 2:30pm: 
 
-  will be posted on Feb 1
+## Discussion Problems
 
-
-### Discussion Problems
-
-* Discussion 1: 
+|  Problem  | Session | Note |
+| :---:     |   :----:|  :----:  |
+|  Problem 1  | Fri Jan 25 | Special review session via Zoom  |
+|  Problem 2  | Fri Feb 4  | Special review session via Zoom    |
+|  Problem 3  | Fri Feb 11  | In-person sessoin; Time varies; Check the [schedule](/discussion.md) |
