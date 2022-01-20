@@ -2,10 +2,12 @@
 
 ### Problem Sets
 
-* Pset 1 
+* Pset 1, Due Tue Feb 1 @ 2:30pm:
 
 
-<h1></h1>
+* Pset 2, Due Tue Feb 8 @ 2:30pm: 
+
+
 
 
 ### Discussion Problems
