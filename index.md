@@ -1,12 +1,11 @@
   
+{% include links.html %}
+
 ### CPSC365: Algorithims 
 
 Welcome to the course page for CSPC365 in Spring 2022
 
 [Click to view the syllabus]() 
-
-{% include links.html %}
-
 
 ### Announcements
   
