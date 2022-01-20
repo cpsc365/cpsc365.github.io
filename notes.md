@@ -2,20 +2,20 @@
 
 # Lecture Notes
 
-### Class 1, Jan 25 Tue: 
+### Class 1, Tue Jan 25: 
     
     (in progress)
 
-### Class 2, Jan 28 Thur: 
+### Class 2, Thur Jan 28: 
      
      (in progress)
 
-### Class 3, Feb 1 Tue: 
+### Class 3, Tue Feb 1: 
      
      (in progress)
      
      
-### Class 4, Feb 3 Turs: 
+### Class 4, Thur Feb 3: 
      
      (in progress)
 
