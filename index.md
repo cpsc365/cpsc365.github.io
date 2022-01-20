@@ -1,9 +1,7 @@
   
 Welcome to the course page for CSPC365 in Spring 2022
 
-* **Times**: Tu/Th 2:30-3:45pm EST
-* **Location**: DL 220
-* [Click to view the syllabus]() 
+[Click to view the syllabus]() 
 
 {% include links.html %}
 
