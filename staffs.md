@@ -1,28 +1,33 @@
-## CPSC365 Staffs
+# CPSC365 Staffs
 
-### Professor 
+## Professor 
 Andre Wibisono 
 
-### Teaching Fellow
+## Teaching Fellow
 John Lazarsfeld
 
-### Course Manager
+## Course Manager
 
 Inyoung Shin
 
-### ULA
+## ULA
 
-**Alex Chen**
+#### Alex Chen
 
 <figure>
-    <img src="files/maineSquare - Alex Chen.jpg" width="140" height="150">
+    <img src="files/maineSquare - Alex Chen.jpg" width="140" height="150"> 
 </figure>
 
-OH: xxxxx
+* Office Hours: 
 
-Hello! My name is Alex and I'm a junior studying Computer Science and Ethics, Politics, & Economics. I'm interested in civic tech, product management, and human-centered design. I enjoy writing poetry with TEETH Poets, playing music with friends, and painting at the CEID!
+* Hello! My name is Alex and I'm a junior studying Computer Science and Ethics, Politics, & Economics. I'm interested in civic tech, product management, and human- centered design. I enjoy writing poetry with TEETH Poets, playing music with friends, and painting at the CEID! </figcaption> OH: xxxxx
 
-**Nevin George**
+#### Nevin George
+
+<figure>
+    <img src="files/maineSquare - Alex Chen.jpg" width="140" height="150"> 
+</figure>
+
 
 **Michal Gerasimiuk**
 
