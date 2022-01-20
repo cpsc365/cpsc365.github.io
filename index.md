@@ -5,7 +5,6 @@ Welcome to the course page for CSPC365 in Spring 2022
 
 {% include links.html %}
 
-<h1></h1>
 
 ### Announcements
   
