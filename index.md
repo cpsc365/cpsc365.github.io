@@ -27,6 +27,7 @@ Welcome to the course page for CSPC365 in Spring 2022
   * *Videos*:
     * will be released after lecture
   
+  
 * **Class 2, Thu Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/my/wibisono)
   * *Reading*: 
@@ -35,6 +36,7 @@ Welcome to the course page for CSPC365 in Spring 2022
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
+
 
 * **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
   * *Reading*: 
@@ -46,6 +48,7 @@ Welcome to the course page for CSPC365 in Spring 2022
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
+ 
  
  * **Class 4, Thu Feb 3: Review on Graphs**
    * *Reading*: 
