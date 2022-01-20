@@ -1,9 +1,9 @@
+{% include links.html %}
 
-
-## Discussions
+## Discussion
 
 | Time         |   Location  |  Discussion Leader |
-| :---:        |    :----:   |    :---            |
+| :---:        |    :----:   |    :---:            |
 | Fri 11:00 AM |             |  Rohit Giridharan  |
 | Fri 12:00 PM |             |  Nevin George      |
 | Fri  1:00 PM |             |  Andrew Wei        |
