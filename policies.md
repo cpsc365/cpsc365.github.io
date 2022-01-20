@@ -1,4 +1,6 @@
-## Class Policies
+{% include links.html %}
+
+# Class Policies
 
 ### Assignments:
 * 7 x problem sets
