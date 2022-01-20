@@ -5,7 +5,7 @@
 |  Problem Set|    Due date        | Solution |
 | :---:       |   :----:           |  :----:  |
 | [PS 1](/)        |  Tue Feb 1 @ 2:30pm|-          |
-| [PS 2]       |  Tue Feb 8 @ 2:30pm| -         |
+| PS 2       |  Tue Feb 8 @ 2:30pm| -         |
 | PS 3        |  Tue Feb 22 @ 2:30pm| -         |
 | PS 4        |          -          |  -        |
 | PS 5        |          -          | -
