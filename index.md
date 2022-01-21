@@ -29,7 +29,7 @@
  
  <p></p>
   
-* **Class 2, Thu Jan 27: Stable Matching Problem**
+* **Class 2, Thur Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/my/wibisono)
   * *Reading*: 
     * Textbook Section 1.1 - 1.2
@@ -60,7 +60,7 @@
  
  <p></p>
  
- * **Class 4, Thu Feb 3: Review on Graphs**
+ * **Class 4, Thur Feb 3: Review on Graphs**
    * *Reading*: 
      * Textbook Section 3
    * *Lecture notes*:
