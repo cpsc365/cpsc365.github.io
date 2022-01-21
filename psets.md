@@ -37,9 +37,9 @@ by yourself.
 
 ### Discussion/Review Problems
 
-|  Problem  | Session Date & Day| Type |
+|  Problem  | Session Day & Date | Type |
 | :---:     |   :----:      |  :----:  |
-|  [Review 0]()  | Fri Jan 25 | Special review session via Zoom  |
-|  Discussion 1  | Fri Feb 4  | Special review session via Zoom    |
+|  [Review 0]()  | Fri Jan 25 | via Zoom  |
+|  Discussion 1  | Fri Feb 4  | via Zoom; time varies; [click to view the schedule](/discussion.md)|
 |  Discussion 2   | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
 
