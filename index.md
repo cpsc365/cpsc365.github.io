@@ -52,7 +52,7 @@
     * Textbook Section 2
   * *Problem set*: 
     * Due [Pset 1](/psets); submit to [Gradescope](https://www.gradescope.com/login)
-    * [Pset 2](/psets) posted soon; due Feb 8
+    * [Pset 2](/psets) posted soon after; due Feb 8
   * *Lecture notes*:
     * will be released after lecture
   * *Videos*:
