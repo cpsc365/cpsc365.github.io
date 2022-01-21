@@ -21,7 +21,7 @@
   * *Reading*: 
     * Textbook Section 1.1 - 1.2
   * *Problem set*: 
-    * [Pset 1](/psets) posted; due Feb 1 2:30pm
+    * [Pset 1](/psets) posted; due Feb 1 @ 2:30pm
   * *Lecture notes*:
     * will be released after lecture
   * *Videos*:
@@ -52,7 +52,7 @@
     * Textbook Section 2
   * *Problem set*: 
     * Due [Pset 1](/psets); submit to [Gradescope](https://www.gradescope.com/login)
-    * [Pset 2](/psets) posted; due Feb 8
+    * [Pset 2](/psets) posted soon; due Feb 8
   * *Lecture notes*:
     * will be released after lecture
   * *Videos*:
