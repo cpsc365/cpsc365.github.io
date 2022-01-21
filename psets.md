@@ -33,11 +33,11 @@ by yourself.
 <h1></h1>
 <p></p>
 
-### Discussion Problems
+### Discussion/Review Problems
 
-|  Problem  | Session | Note |
-| :---:     |   :----:|  :----:  |
-|  Problem 1  | Fri Jan 25 | Special review session via Zoom  |
-|  Problem 2  | Fri Feb 4  | Special review session via Zoom    |
-|  Problem 3  | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
+|  Problem  | Session Date & Day| Type |
+| :---:     |   :----:      |  :----:  |
+|  [Review 0]()  | Fri Jan 25 | Special review session via Zoom  |
+|  [Discussion1]()  | Fri Feb 4  | Special review session via Zoom    |
+|  [Discussion2]()   | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
 
