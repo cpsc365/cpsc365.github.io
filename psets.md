@@ -4,7 +4,7 @@
 
 |  Problem Set|    Due date        | Solution |
 | :---:       |   :----:           |  :----:  |
-| [PS 1](files/pset/PS1.pdf)        |  Tue Feb 1 @ 2:30pm| check through [Piazza]()|
+| [PS 1](files/pset/PS1.pdf)        |  Tue Feb 1 @ 2:30pm| will be posted on [Piazza]()|
 | PS 2       |  Tue Feb 8 @ 2:30pm| -         |
 | PS 3        |  Tue Feb 22 @ 2:30pm| -         |
 | PS 4        |          -          |  -        |
