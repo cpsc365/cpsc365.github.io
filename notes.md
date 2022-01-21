@@ -1,6 +1,6 @@
 {% include links.html %}
 
-# Lecture Notes
+### Lecture Notes
 
 
 | Class # | Day & Date  |     Topics       |  Lecture Slides | Notes  | 
