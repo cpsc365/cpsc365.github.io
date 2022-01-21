@@ -9,7 +9,7 @@ Andre Wibisono
     <img src="files/photos/Andre Wibisono.jpeg" width="140" height="150"> 
 </figure>
 
-* Email:andre.wibisono@yale.edu 
+* andre.wibisono@yale.edu 
 
 * Office Hours:TBD
 
@@ -21,7 +21,7 @@ Andre Wibisono
     <img src="files/photos/John Lazarsfeld.jpg" width="140" height="150"> 
 </figure>
 
-* Email:john.lazarsfeld@yale.edu 
+* john.lazarsfeld@yale.edu 
 
 * Office Hours:TBD
 
@@ -37,7 +37,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
     <img src="files/photos/Inyoung Shin.jpg" width="140" height="150"> 
 </figure>
 
-* Email: inyoung.shin@yale.edu
+* inyoung.shin@yale.edu
 
 * Office Hours:TBD
 
