@@ -39,5 +39,5 @@ by yourself.
 | :---:     |   :----:|  :----:  |
 |  Problem 1  | Fri Jan 25 | Special review session via Zoom  |
 |  Problem 2  | Fri Feb 4  | Special review session via Zoom    |
-|  Problem 3  | Fri Feb 11  | In-person sessoin; Time varies; Check the [schedule](/discussion.md) |
+|  Problem 3  | Fri Feb 11  | In-person sessoin; time varies; [click to view the schedule](/discussion.md) |
 
