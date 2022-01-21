@@ -4,6 +4,7 @@ body {
     margin-bottom:100px;
     width: 85%;
     margin: 0 auto;
+    flex-wrap:wrap;
 }
 
 @media screen and (max-width: 750px) {
@@ -12,6 +13,7 @@ body {
     max-width: 100%;   
     text-align: left;
     size: 50%;
+    flex-wrap:wrap;
   }  
   .header {
     margin-top: 1em;
