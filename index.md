@@ -10,7 +10,7 @@
 ### Announcements
   
 * *Jan 19*: [Pset 1](/psets) posted; due Feb 1.
-* *Jan 19*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed]()
+* *Jan 19*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
 
 <h1></h1>
 
@@ -51,7 +51,7 @@
   * *Reading*: 
     * Textbook Section 2
   * *Problem set*: 
-    * Due [Pset 1](/psets); submit to [Gradescope](https://www.gradescope.com/login)
+    * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
     * [Pset 2](/psets) posted soon after; due Feb 8
   * *Lecture notes*:
     * will be released after lecture
