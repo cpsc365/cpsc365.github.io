@@ -24,7 +24,8 @@
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
-  
+ 
+ <p></p>
   
 * **Class 2, Thu Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/my/wibisono)
@@ -35,10 +36,11 @@
   * *Videos*:
     * will be released after lecture
 
-
+ <p></p>
+ 
 * **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
   * *Reading*: 
-    * Section 2
+    * Textbook Section 2
   * *Problem set*: 
     * Due [Pset 1](/psets); submit to [Gradescope]()
     * [Pset 2](/psets) posted; due Feb 8
@@ -47,15 +49,16 @@
   * *Videos*:
     * will be released after lecture
  
+ <p></p>
  
  * **Class 4, Thu Feb 3: Review on Graphs**
    * *Reading*: 
-     * Section 3
+     * Textbook Section 3
    * *Lecture note*:
      * will be released after lecture
    * *Videos*
      * will be released after lecture
 
-
+ <p></p>
 
 
