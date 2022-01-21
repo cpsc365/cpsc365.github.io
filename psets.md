@@ -1,6 +1,6 @@
 {% include links.html %}
 
-## Problem Sets
+### Problem Sets
 
 |  Problem Set|    Due date        | Solution |
 | :---:       |   :----:           |  :----:  |
@@ -30,7 +30,10 @@ by yourself.
 > * You must list any resources you consult (beyond the course textbook).
 > * You must also follow the [Yale academic integrity policy](/https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fcatalog.yale.edu%2Fundergraduate-regulations%2Fregulations%2Facademic-dishonesty%2F&amp;data=04%7C01%7Cinyoung.shin%40yale.edu%7C4bf776d64aa040e55e2b08d9dc4d6935%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637783050146558528%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000&amp;sdata=HMK12mLsDu0deTy59mdukXXqx1lX8fgPtoYmPYJB0xI%3D&amp;reserved=0}YY).
 
-## Discussion Problems
+<h1></h1>
+<p></p>
+
+### Discussion Problems
 
 |  Problem  | Session | Note |
 | :---:     |   :----:|  :----:  |
