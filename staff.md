@@ -1,6 +1,6 @@
 {% include links.html %}
 
-# Staffs
+# Staff
 
 ## Professor 
 Andre Wibisono 
