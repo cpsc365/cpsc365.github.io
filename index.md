@@ -37,7 +37,14 @@
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
+ 
+ <p></p>
 
+* **Reviwe 0, Fri Jan 28: Review on logic, proofs, math; stable matching
+  * [Link to live session](https://yale.zoom.us/my/wibisono)
+  *  *Reading*: 
+  
+ 
  <p></p>
  
 * **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
