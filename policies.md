@@ -23,8 +23,9 @@
 ### Assignment Submission Instructions:
 
 * Submit the PDF of your solution via Gradescope.
-* Write your name and SID only in the first page; do not write them anywhere else in your solution.
-* Start your solution to every question on a new page.
+* Write your name and SID should in the first page; do not write them anywhere else in your solution.
+* Start your solution to every question on a new page including the first question; the person
+grading the first question should not be able to see your name.
 * Make sure to assign the correct page in your document corresponding to each problem.
 * We recommend writing your solution in Latex; Handwritten solutions are accepted if they are clearly legible.
 
