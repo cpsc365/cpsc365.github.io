@@ -5,6 +5,8 @@
 
 [Click to view the syllabus]() 
 
+<h1></h1>
+
 ### Announcements
   
 * *Jan 19*: [Pset 1](/psets) posted; due Feb 1.
