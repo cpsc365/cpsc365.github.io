@@ -22,7 +22,7 @@
     * Textbook Section 1.1 - 1.2
   * *Problem set*: 
     * [Pset 1](/psets) posted; due Feb 1 2:30pm
-  * *Lecture note*:
+  * *Lecture notes*:
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
@@ -33,7 +33,7 @@
   * [Link to live session](https://yale.zoom.us/my/wibisono)
   * *Reading*: 
     * Textbook Section 1.1 - 1.2
-  * *Lecture note*:
+  * *Lecture notes*:
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
@@ -46,7 +46,7 @@
   * *Problem set*: 
     * Due [Pset 1](/psets); submit to [Gradescope]()
     * [Pset 2](/psets) posted; due Feb 8
-  * *Lecture note*:
+  * *Lecture notes*:
     * will be released after lecture
   * *Videos*:
     * will be released after lecture
@@ -56,7 +56,7 @@
  * **Class 4, Thu Feb 3: Review on Graphs**
    * *Reading*: 
      * Textbook Section 3
-   * *Lecture note*:
+   * *Lecture notes*:
      * will be released after lecture
    * *Videos*
      * will be released after lecture
