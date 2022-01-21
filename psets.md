@@ -38,6 +38,6 @@ by yourself.
 |  Problem  | Session Date & Day| Type |
 | :---:     |   :----:      |  :----:  |
 |  [Review 0]()  | Fri Jan 25 | Special review session via Zoom  |
-|  [Discussion1]()  | Fri Feb 4  | Special review session via Zoom    |
-|  [Discussion2]()   | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
+|  Discussion1  | Fri Feb 4  | Special review session via Zoom    |
+|  Discussion2   | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
 
