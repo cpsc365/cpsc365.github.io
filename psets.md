@@ -4,7 +4,7 @@
 
 |  Problem Set|    Due date        | Solution |
 | :---:       |   :----:           |  :----:  |
-| [PS 1](files/pset/PS1.pdf)        |  Tue Feb 1 @ 2:30pm| will be posted on [Piazza]()|
+| [PS 1](files/pset/PS1.pdf)        |  Tue Feb 1 @ 2:30pm| will be posted on [Canvas](https://yale.instructure.com/courses/73872)|
 | PS 2       |  Tue Feb 8 @ 2:30pm| -         |
 | PS 3        |  Tue Feb 22 @ 2:30pm| -         |
 | PS 4        |          -          |  -        |
@@ -42,4 +42,10 @@ by yourself.
 |  [Review 0]()  | Fri Jan 25 | via Zoom  |
 |  Discussion 1  | Fri Feb 4  | via Zoom; time varies; [click to view the schedule](/discussion.md)|
 |  Discussion 2   | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
+
+
+
+
+&nbsp;&nbsp;&nbsp;
+
 
