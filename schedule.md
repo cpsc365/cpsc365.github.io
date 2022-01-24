@@ -1,4 +1,6 @@
 
+{% include links.html %}
+
 ### Lecture Schedule (Tentative)
 
 
