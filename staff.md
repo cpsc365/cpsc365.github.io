@@ -161,7 +161,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
 #### Matthew Zhang
 
 <figure>
-    <img src="files/photos/Matthew Zhang.jpg" width="140" height="150"> 
+    <img src="files/photos/Matthew Zhang.jpg" width="150" height="150"> 
 </figure>
 
 * Office Hours: 
