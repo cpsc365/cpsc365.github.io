@@ -22,9 +22,8 @@ Textbook refers to *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1.1 - 1.2
   * *Problem set*: [Pset 1](/psets) posted; due Feb 1 @ 2:30pm
-  * *Lecture notes*: [Lecture Slides for class 1](/files/Lecture notes/CPSC 365 - Lec 1 - Introduction.pdf)
-  * *Videos*: will be released after lecture
- 
+  * *Lecture notes*: [Lecture Slides for Class 1](https://github.com/cpsc365/cpsc365.github.io/files/7937353/Lec.1.pdf)
+
  <p></p>
   
 * **Class 2, Thur Jan 27: Stable Matching Problem**
