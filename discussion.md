@@ -6,7 +6,7 @@
 | :---:        |    :----:   |    :---:            |
 | Fri 11:00 AM |             |  Rohit Giridharan  |
 | Fri 12:00 PM |     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
-| Fri  1:00 PM |             |  Andrew Wei        |
+| Fri  1:00 PM |      [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)       |  Andrew Wei        |
 | Fri  1:00 PM |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
 | Fri  2:00 PM |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
 | Fri  3:00 PM |       [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)     |  Adit Gupta        |
@@ -17,7 +17,7 @@
 
 | Time          |   Online Links | ULA               |
 | :---:         |    :----:   |    :---:            |
-| Mon 7-8:30pm  |     |Andrew Wei        |
+| Mon 7-8:30pm  |   [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)   |Andrew Wei        |
 | Mon 7-8:30pm  |  https://yale.zoom.us/j/8543083870  |Andrew Yuan       |
 | Mon 8:30-10pm |   |Alex Chen        |
 | Mon 8:30-10pm |  [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)   |Nevin George |
