@@ -21,7 +21,7 @@
 | Mon 7-8:30pm  |  [https://yale.zoom.us/j/8543083870](https://yale.zoom.us/j/8543083870)  |Andrew Yuan       |
 | Mon 8:30-10pm |    [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
 | Mon 8:30-10pm |  [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)   |Nevin George |
-| Wed 3:00-4:30 pm  |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)      |Alden Tan         |
+| Wed 3-4:30 pm  |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)      |Alden Tan         |
 | Thur 7-8:30pm |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
 | Fri 6-7:30pm  | [https://yale.zoom.us/j/98653051743](https://yale.zoom.us/j/98653051743) |Michal Gerasimiuk |
 | Sat 1-2:30pm  |   [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)   |Rohit Giridharan    |
