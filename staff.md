@@ -11,7 +11,7 @@ Andre Wibisono
 
 * andre.wibisono@yale.edu 
 
-* Office Hours:TBD
+* Office Hours: Tue 4-5pm
 
 ## Teaching Fellow
 
