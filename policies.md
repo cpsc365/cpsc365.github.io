@@ -13,12 +13,6 @@
 * Midterm 1: 20%
 * Midterm 2: 20%
 
-### Grade breakdown:
-* A: 90 - 100%
-* B: 80 - 90%
-* C: 70 - 80%
-* D: 60 - 70%
-* F: 0 - 60%
  
 ### Assignment Submission Instructions:
 
