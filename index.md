@@ -29,7 +29,7 @@ Textbook refers to *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   
 * **Class 2, Thur Jan 27: Stable Matching Problem**
   * [Link to live session]( https://yale.zoom.us/j/94057532462)
-  * *Reading*: Textbook Section 1.1 - 1.2
+  * *Reading*: Textbook Section 1, 2.3
   * *Lecture notes*: will be released after lecture
   * *Videos*: will be released after lecture
  
