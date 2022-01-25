@@ -23,7 +23,7 @@ Andre Wibisono
 
 * john.lazarsfeld@yale.edu 
 
-* Office Hours:By appointment
+* Office Hours: By appointment
 
 * Hi, I'm a third-year PhD student in CS working with Jim Aspnes on
 randomized algorithms and differential privacy. This is my second year
@@ -39,7 +39,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
 
 * inyoung.shin@yale.edu
 
-* Office Hours:By appointment
+* Office Hours: By appointment
 
 * As a course manager, I manage logics and administration of the course. If you have any issue beyond course contents, please feel free to reach out to me. 
 
