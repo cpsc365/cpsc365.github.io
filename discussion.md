@@ -25,6 +25,6 @@
 | Thur 7-8:30pm |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
 | Fri 6-7:30pm  | [https://yale.zoom.us/j/98653051743](https://yale.zoom.us/j/98653051743) |Michal Gerasimiuk |
 | Sat 1-2:30pm  |   [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)   |Rohit Giridharan    |
-| Sun 1-2:30pm  |     |Michelle Goh      |
+| Sun 1-2:30pm  |    TBA |Michelle Goh      |
 | Sun 7-8:30pm  |  [https://yale.zoom.us/j/9916776114](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
 | Sun 8:30-10pm  |    [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)   |Eric Xue         |
