@@ -3,7 +3,8 @@
 
 ### Welcome to the course page for CSPC365 in Spring 2022
 
-
+**Instructor**: Andre Wibisono <br>
+**Times**: Tu/Th 2:30-3:45pm <br>
 <h1></h1>
 
 ### Announcements
