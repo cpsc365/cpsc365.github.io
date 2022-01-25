@@ -4,13 +4,13 @@
 
 | Time         |   Online Links  |  Discussion Leader |
 | :---:        |    :----:   |    :---:            |
-| Fri 11:00 AM |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
-| Fri 12:00 PM |     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
-| Fri  1:00 PM |      [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)       |  Andrew Wei        |
-| Fri  1:00 PM |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
-| Fri  2:00 PM |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
-| Fri  3:00 PM |       [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)     |  Adit Gupta        |
-| Fri  3:00 PM |         [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)    |  Eric Xue          |
+|TBA |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
+| TBA |     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
+| TBA |      [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)       |  Andrew Wei        |
+| TBA |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
+| TBA |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
+| TBA|       [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)     |  Adit Gupta        |
+|TBA |         [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)    |  Eric Xue          |
 
 
 ## Office Hours
