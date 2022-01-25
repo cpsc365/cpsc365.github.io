@@ -8,9 +8,9 @@
 
 
 ### Grading:
-* PS 1 and 2 = 5% 
+* PS 1 and 2 : 2 x 5% = 10% 
 * PS 3 to PS 7: 5 x 10% = 50%
-* Midterm 1: 15%
+* Midterm 1: 20%
 * Midterm 2: 20%
 
 ### Grade breakdown:
