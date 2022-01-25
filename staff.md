@@ -23,7 +23,7 @@ Andre Wibisono
 
 * john.lazarsfeld@yale.edu 
 
-* Office Hours: By appointment
+* Office Hours: TBA
 
 * Hi, I'm a third-year PhD student in CS working with Jim Aspnes on
 randomized algorithms and differential privacy. This is my second year
