@@ -10,7 +10,7 @@
   
 * *Jan 21*: [Pset 1](/psets) posted; due Feb 1.
 * *Jan 21*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
-* *Jan 21*: Office hours are held via zoom. [Click to view the schedule and links](/discussion).
+* *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
 <h1></h1>
 
 ### Course Content
