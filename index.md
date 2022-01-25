@@ -19,7 +19,7 @@
 Textbook refers to *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 * **Class 1, Tue Jan 25: Introduction**
-  * [Link to live session](https://yale.zoom.us/my/wibisono)
+  * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1.1 - 1.2
   * *Problem set*: [Pset 1](/psets) posted; due Feb 1 @ 2:30pm
   * *Lecture notes*: will be released after lecture
@@ -28,7 +28,7 @@ Textbook refers to *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
   
 * **Class 2, Thur Jan 27: Stable Matching Problem**
-  * [Link to live session](https://yale.zoom.us/my/wibisono)
+  * [Link to live session]( https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1.1 - 1.2
   * *Lecture notes*: will be released after lecture
   * *Videos*: will be released after lecture
