@@ -33,7 +33,7 @@
  <p></p>
 
 * **Review 0, Fri Jan 28: Review on logic, proofs, math; stable matching**
-  * [Link to live session](https://yale.zoom.us/my/wibisono)
+  * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Problems*: PDF will be released soon.
   
  
