@@ -94,7 +94,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
 
 * Office Hours: Sun 1-2:30pm
 
-*Hello! I'm a junior in Trumbull College majoring in Computer Science & Economics. I'm from Long Island and in my free time, I like to cook, walk around campus and play video games! Wishing everyone a wonderful semester in CPSC 365!
+* Hello! I'm a junior in Trumbull College majoring in Computer Science & Economics. I'm from Long Island and in my free time, I like to cook, walk around campus and play video games! Wishing everyone a wonderful semester in CPSC 365!
 
 #### Adit Gupta
 <figure>
