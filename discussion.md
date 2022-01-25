@@ -24,7 +24,7 @@
 | Wed 3:00-4:30 pm  |  https://yale.zoom.us/j/5845146702   |Alden Tan         |
 | Thur 7-8:30pm |  https://yale.zoom.us/j/97198208602    |Adit Gupta     |
 | Fri 6-7:30pm  |  |Michal Gerasimiuk |
-| Sat 1-2:30pm  |   |xxxxxx    |
+| Sat 1-2:30pm  |   |-   |
 | Sun 1-2:30pm  |     |Michelle Goh      |
 | Sun 7-8:30pm  |    |Rohit Giridharan  |
 | Sun 7-8:30pm  |  https://yale.zoom.us/j/9916776114  |Matthew Zhang    |
