@@ -105,15 +105,6 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
 
 * I'm a junior in TD studying computer science from Portland, Oregon. I am particularly interested in fintech, systems design, and networks. In my free time, I enjoy playing poker, baking, and complaining about the Portland Trail Blazers. 
 
-#### Clara Schwab
-
-<figure>
-    <img src="files/photos/Clara Schwab.JPG" width="140" height="150"> 
-</figure>
-
-* Office Hours: Sat 1-2.30pm
-
-* Hi! My name is Clara. I am a senior and a computer science major at Yale. I took CPSC 365 two semesters ago and loved the class. I was born in Mainz Germany but now live in Portland Oregon.
 
 #### Alden Tan
 
