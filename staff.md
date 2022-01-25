@@ -52,7 +52,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
     <img src="files/photos/Alex Chen.jpg" width="140" height="150"> 
 </figure>
 
-* Office Hours: 
+* Office Hours: Mon 8:30-10pm
 
 * Hello! My name is Alex and I'm a junior studying Computer Science and Ethics, Politics, & Economics. I'm interested in civic tech, product management, and human- centered design. I enjoy writing poetry with TEETH Poets, playing music with friends, and painting at the CEID! 
 
@@ -62,7 +62,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
     <img src="files/photos/Nevin George.jpg" width="140" height="150"> 
 </figure>
 
-* Office Hours: Mon 8.30-10pm
+* Office Hours: Mon 8:30-10pm
 
 * Hello! My name is Nevin, and I'm a junior in Silliman double majoring in math and computer science. Algorithms is one of my favorite topics in computer science, and I'm considering pursuing algorithms-related things in graduate school. I'm excited to begin working with everyone!
 
