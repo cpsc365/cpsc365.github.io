@@ -6,9 +6,10 @@
 * 7 x problem sets
 * 2 x midterms
 
+
 ### Grading:
-* PS 1: 5%
-* PS 2 to PS 7: 6 x 10% = 60%
+* PS 1 and 2 = 5% 
+* PS 3 to PS 7: 5 x 10% = 50%
 * Midterm 1: 15%
 * Midterm 2: 20%
 
@@ -18,8 +19,7 @@
 * C: 70 - 80%
 * D: 60 - 70%
 * F: 0 - 60%
- > **note:** Can announce later. Cutoffs may be adjusted in the downward direction to improve grades.
-
+ 
 ### Assignment Submission Instructions:
 
 * Submit the PDF of your solution via Gradescope.
@@ -46,11 +46,5 @@ by yourself.
 * PS due on Tuesday before class at 2:30 PM
 * PS solution released soon after (after class)
 * Students with late days must sign honor code not looking at solution
-* Midterm solution released right after exam
 
-### Grading process:
-* Students submit PS via Gradescope, make sure assign pages to questions correctly
-* TF + ULAs grade in parallel (we will provide solution and default grading rubric)
-* Please be mindful of other approaches that students take
-* Collect common mistakes, alternative approaches, etc. and give feedback to students
-* Release grades within one week (before submit next PS)
+
