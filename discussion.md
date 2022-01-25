@@ -9,7 +9,6 @@
 | Fri  1:00 PM |             |  Andrew Wei        |
 | Fri  1:00 PM |             |  Alden Tan         |
 | Fri  2:00 PM |             |  Alex Chen         |
-| Fri  2:00 PM |             |  Clara Schwab      |
 | Fri  3:00 PM |             |  Adit Gupta        |
 | Fri  3:00 PM |             |  Eric Xue          |
 
@@ -25,7 +24,7 @@
 | Wed 3:00-4:30 pm  |  AKW 2nd Floor Lounge |  Alden Tan         |
 | Thur 7-8:30pm |  AKW 2nd Floor Lounge |  Adit Gupta     |
 | Fri 6-7:30pm  |  AKW 2nd Floor Lounge |  Michal Gerasimiuk |
-| Sat 1-2:30pm  |  AKW 2nd Floor Lounge |  Clara Schwab      |
+| Sat 1-2:30pm  |  AKW 2nd Floor Lounge |  xxxxxx    |
 | Sun 1-2:30pm  |  AKW 2nd Floor Lounge |  Michelle Goh      |
 | Sun 7-8:30pm  |  AKW 2nd Floor Lounge |  Rohit Giridharan  |
 | Sun 7-8:30pm  |  AKW 2nd Floor Lounge |  Matthew Zhang    |
