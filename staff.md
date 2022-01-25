@@ -82,7 +82,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
     <img src="files/photos/Rohit Giridharan.jpg" width="140" height="150"> 
 </figure>
 
-* Office Hours: Sun 7-8.30pm
+* Office Hours: Sat 1-2:30pm
 
 * Hi, I'm Rohit! I'm a senior studying EECS, and this is my first (and last) time ULAing for 365. In my free time, I enjoy reading, hiking, and beating my friends at the NYT Mini Crossword.
 
