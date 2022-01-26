@@ -23,7 +23,7 @@ Textbook refers to *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Reading*: Textbook Section 1.1 - 1.2
   * *Problem set*: [Pset 1](/psets) posted; due Feb 1 @ 2:30pm
   * *Lecture notes*: [Lecture Slides for Class 1](https://github.com/cpsc365/cpsc365.github.io/files/7937353/Lec.1.pdf)
-  * *Videos:[Click to view recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4aec5f8e-1c9c-4f2e-877d-ae28015c64a1)
+  * *Video*: [Click to view recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4aec5f8e-1c9c-4f2e-877d-ae28015c64a1)
 
  <p></p>
   
