@@ -101,7 +101,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
     <img src="files/photos/Adit Gupta.jpg" width="140" height="150"> 
 </figure>
 
-* Office Hours: Thur 7-8.30pm
+* Office Hours: Thur 7-8.30pm and Sun 7-8.30pm
 
 * I'm a junior in TD studying computer science from Portland, Oregon. I am particularly interested in fintech, systems design, and networks. In my free time, I enjoy playing poker, baking, and complaining about the Portland Trail Blazers. 
 
