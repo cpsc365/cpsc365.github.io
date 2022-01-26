@@ -16,7 +16,7 @@
 
 ### Course Content
 
-Textbook refers to *Algorithm Design* written by Jon Kleinberg and Éva Tardos
+Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 * **Class 1, Tue Jan 25: Introduction**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
