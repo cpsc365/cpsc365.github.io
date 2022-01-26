@@ -9,7 +9,6 @@
 | TBA |      [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)       |  Andrew Wei        |
 | TBA |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
 | TBA |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
-| TBA|       [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)     |  Adit Gupta        |
 |TBA |         [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)    |  Eric Xue          |
 
 
