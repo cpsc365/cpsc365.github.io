@@ -38,17 +38,16 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
 
-* **Review 0, Fri Jan 28: Review on logic, proofs, math; stable matching**
+* **Review 0, Fri Jan 28 @ 3:00pm: Review on logic, proofs, math; stable matching**
   * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Notes*: PDF will be released soon.
-  * *Videos*: will be released after review
+  *  *Videos*: will be released after review
   
- 
  <p></p>
  
-* **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
+* **Class 3, Tue Feb 1: Review on Graphs**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
-  * *Reading*: Textbook Section 2
+  * *Reading*: Textbook Section 3.2 - 3.6
   * *Problem set*: 
     * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
     * [Pset 2](/psets) posted soon after; due Feb 8
@@ -57,13 +56,28 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 4, Thur Feb 3: Review on Graphs**
-   * *Reading*: Textbook Section 3
+ * **Class 4, Thur Feb 3: Interval Scheduling Problem**
+   * *Reading*: Textbook Section 4.1
+   * *Lecture notes*: will be released after lecture
+   * *Videos*: will be released after lecture
+
+<p></p>
+
+* **Discussion 1, Fri Feb 4**: 
+  *  Time and links vary; [click to view the schedule and link](/discussion)
+  *  *Notes*: PDF will be released soon.
+  *  *Videos*: will be released after review
+
+ <p></p>
+ 
+ * **Class 5, Thur Feb 8: Scheduling Problem Variants**
+   * *Reading*: Textbook Section 4.2
+   * *Problem set*: 
+     * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
+     * [Pset 3](/psets) posted soon after; due Feb 22
    * *Lecture notes*: will be released after lecture
    * *Videos*: will be released after lecture
 
  <p></p>
-
-
-
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;
