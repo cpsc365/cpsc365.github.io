@@ -9,12 +9,12 @@
 
 ### Announcements
   
-* *Jan 21*: Pset 1 is updated. Make sure to download the updated [Pset 1](/psets); due Feb 1.
 * *Jan 21*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
 * *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
 <p></p>
 
 * *Jan 27*: Review sessions held via Zoom in Feb 28 Friday@ 3:00pm [Link to live session](https://yale.zoom.us/j/7342391303)
+* *Jan 27*: [Pset 1](/psets) is updated. Make sure to download the latest version of; due Feb 1.
 <h1></h1>
 
 ### Course Content
@@ -33,9 +33,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 2, Thur Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1, 2.3-2.5
-  * *Lecture notes*: [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7953896/Lec.2.pdf)
+  * *Lecture notes*:[Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7954084/Lec.2.pdf)
+
   * *Videos*: will be released after lecture
-  * *Feedback Survey*: [https://forms.gle/NS3LzK7MHzSbU7JR6](https://forms.gle/NS3LzK7MHzSbU7JR6) 
  
  <p></p>
 
