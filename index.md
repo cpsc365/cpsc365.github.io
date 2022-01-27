@@ -32,8 +32,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 2, Thur Jan 27: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1, 2.3-2.5
-  * *Lecture notes*:[Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7953896/Lec.2.pdf)
-
+  * *Lecture notes*: [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7953896/Lec.2.pdf)
   * *Videos*: will be released after lecture
  
  <p></p>
@@ -41,6 +40,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Review 0, Fri Jan 28: Review on logic, proofs, math; stable matching**
   * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Notes*: PDF will be released soon.
+  * *Videos*: will be released after review
   
  
  <p></p>
