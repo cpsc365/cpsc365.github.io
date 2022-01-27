@@ -35,6 +35,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Reading*: Textbook Section 1, 2.3-2.5
   * *Lecture notes*: [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7953896/Lec.2.pdf)
   * *Videos*: will be released after lecture
+  * *Feedback Survey*: [https://forms.gle/NS3LzK7MHzSbU7JR6](https://forms.gle/NS3LzK7MHzSbU7JR6) 
  
  <p></p>
 
