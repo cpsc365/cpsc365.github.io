@@ -12,6 +12,7 @@
 * *Jan 21*: Pset 1 is updated. Make sure to download the updated [Pset 1](/psets); due Feb 1.
 * *Jan 21*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
 * *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
+<p></p>
 
 * *Jan 27*: Review sessions held via Zoom in Feb 28 Friday@ 3:00pm [Link to live session](https://yale.zoom.us/j/7342391303)
 <h1></h1>
