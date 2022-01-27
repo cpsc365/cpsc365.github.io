@@ -46,8 +46,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
 * **Class 3, Tue Feb 1: Basics of Algorithms Analysis**
- * [Link to live session](https://yale.zoom.us/j/94057532462)
- * *Reading*: Textbook Section 2
+  * [Link to live session](https://yale.zoom.us/j/94057532462)
+  * *Reading*: Textbook Section 2
   * *Problem set*: 
     * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
     * [Pset 2](/psets) posted soon after; due Feb 8
