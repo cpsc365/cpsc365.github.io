@@ -40,7 +40,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fc3e155-1541-45fd-8c43-ae2a015e9926)
  <p></p>
 
-* **Review 0, Fri Jan 28 @ 3:00pm: Review on logic, proofs, math; stable matching**
+* **Review 0, Fri Jan 28 @ 3:00pm: Review on logic, proofs, math**
   * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Notes*: PDF will be released soon.
   *  *Videos*: will be released after review
