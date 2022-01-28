@@ -9,12 +9,15 @@
 
 ### Announcements
   
-* *Jan 21*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
-* *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
+* *Jan 27*: Review sessions held via Zoom in Feb 28 Friday@ 3:00pm [Link to live session](https://yale.zoom.us/j/7342391303)
+* *Jan 27*: [Pset 1](/psets) is updated. Make sure to download the latest version; due Feb 1.
+
 <p></p>
 
-* *Jan 27*: Review sessions held via Zoom in Feb 28 Friday@ 3:00pm [Link to live session](https://yale.zoom.us/j/7342391303)
-* *Jan 27*: [Pset 1](/psets) is updated. Make sure to download the latest version of; due Feb 1.
+* *Jan 21*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
+* *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
+
+
 <h1></h1>
 
 ### Course Content
