@@ -6,10 +6,10 @@
 | :---:        |    :----:   |    :---:            |
 |TBA |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
 | TBA |     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
-| TBA |      [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)       |  Andrew Wei        |
-| TBA |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
+| TBA |     [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)      |  Andrew Wei        |
 | TBA |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
 |TBA |         [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)    |  Eric Xue          |
+| TBA |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
 
 
 ## Office Hours
@@ -17,7 +17,7 @@
 | Time          |   Online Links | Staff               |
 | :---:         |    :----:   |    :---:            |
 | Tue 4-5pm     |   [https://yale.zoom.us/my/wibisono](https://yale.zoom.us/my/wibisono)   |Prof. Andre Wibisono |
-| Mon 7-8:30pm  |   [https://yale.zoom.us/j/95487260588](https://yale.zoom.us/j/95487260588)   |Andrew Wei        |
+| Mon 7-8:30pm  |   [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)   |Andrew Wei        |
 | Mon 7-8:30pm  |  [https://yale.zoom.us/j/8543083870](https://yale.zoom.us/j/8543083870)  |Andrew Yuan       |
 | Mon 8:30-10pm |    [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
 | Mon 8:30-10pm |  [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)   |Nevin George |
