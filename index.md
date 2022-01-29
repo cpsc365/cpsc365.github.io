@@ -60,6 +60,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
  * **Class 4, Thur Feb 3: Interval Scheduling Problem**
+   * [Link to live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 4.1
    * *Lecture notes*: will be released after lecture
    * *Videos*: will be released after lecture
