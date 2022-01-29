@@ -43,7 +43,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Review 0, Fri Jan 28 @ 3:00pm: Review on logic, proofs, math**
   * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Notes*: [Supplemental Slides about Proofs](https://github.com/cpsc365/cpsc365.github.io/files/7962841/Proofs.pdf)
-  *  *Videos*: [Click to view the recorded revesion 0](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1479bda-c7fd-4bdd-96eb-ae2b016e7b16) 
+  *  *Videos*: [Click to view the recorded review](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1479bda-c7fd-4bdd-96eb-ae2b016e7b16) 
   
   
  <p></p>
