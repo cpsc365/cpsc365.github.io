@@ -4,7 +4,7 @@
 
 | Time         |   Online Links  |  Discussion Leader |
 | :---:        |    :----:   |    :---:            |
-|11-12:00Pm |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
+|11-12Pm |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
 | 12-1pm |     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
 | 1-2pm |     [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)      |  Andrew Wei        |
 | 2-3pm |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
