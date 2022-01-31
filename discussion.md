@@ -4,12 +4,12 @@
 
 | Time         |   Online Links  |  Discussion Leader |
 | :---:        |    :----:   |    :---:            |
-|11-12pm |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
-| 12-1pm |     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
-| 1-2pm |     [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)      |  Andrew Wei        |
-| 2-3pm |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
-|3-4pm |         [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)    |  Eric Xue          |
-| 4-5pm |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
+|Fri 11-12pm |      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
+|Fri 12-1pm|     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
+|Fri 1-2pm |     [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)      |  Andrew Wei        |
+|Fri 2-3pm |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
+|Fri 3-4pm |         [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)    |  Eric Xue          |
+|Fri 4-5pm |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)           |  Alden Tan         |
 
 
 ## Office Hours
