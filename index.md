@@ -9,7 +9,7 @@
 
 ### Announcements
 
-* *Feb 1*: Pset 1 deadline has been extended to Feb 1 @ 11:59pm.
+* *Feb 1*: The deadline for PS1 has been extended to Feb 1 @ 11:59pm.
 
 <p></p>
   
