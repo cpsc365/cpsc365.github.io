@@ -5,7 +5,7 @@
 |  Problem Set|    Due date        | Solution |
 | :---:       |   :----:           |  :----:  |
 | [PS 1](files/pset/PS1.pdf)        |  Tue Feb 1 @ 11:59pm| will be posted on [Canvas](https://yale.instructure.com/courses/73872)|
-| [PS 2]((files/pset/PS2.pdf)        |  Tue Feb 8 @ 2:30pm| -         |
+| [PS 2](files/pset/PS2.pdf)        |  Tue Feb 8 @ 2:30pm| -         |
 | PS 3        |  Tue Feb 22 @ 2:30pm| -         |
 | PS 4        |          -          |  -        |
 | PS 5        |          -          | -
