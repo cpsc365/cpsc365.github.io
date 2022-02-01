@@ -57,8 +57,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Reading*: Textbook Section 3.2 - 3.6
   * *Problem set*: 
     * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
-    * [Pset 2](/psets) posted soon after; due Feb 8
-  * *Lecture notes*: will be released after lecture
+    * [Pset 2](/psets) posted; due Feb 8
+  * *Lecture notes*: [Lecture Slides for Class 3](https://github.com/cpsc365/cpsc365.github.io/files/7981882/CPSC.365.-.Lec.3.Stable.Matching.pdf)
   * *Videos*: will be released after lecture
  
  <p></p>
