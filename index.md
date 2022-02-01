@@ -40,7 +40,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fc3e155-1541-45fd-8c43-ae2a015e9926)
  <p></p>
 
-* **Review 0, Fri Jan 28 @ 3:00pm: Review on logic, proofs, math**
+* **Review 0, Fri Jan 28 @ 3:00pm: Review on Logic, Proofs, Math**
   * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Notes*: [Supplemental Slides about Proofs](https://github.com/cpsc365/cpsc365.github.io/files/7962841/Proofs.pdf)
   *  *Videos*: [Click to view the recorded review](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1479bda-c7fd-4bdd-96eb-ae2b016e7b16) 
@@ -59,7 +59,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 4, Thur Feb 3: DFS - Graph connectivity, Topological Sort**
+ * **Class 4, Thur Feb 3: DFS - Graph Connectivity, Topological Sort**
    * [Link to live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 4.1
    * *Lecture notes*: will be released after lecture
