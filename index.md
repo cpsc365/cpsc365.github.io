@@ -33,7 +33,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  <p></p>
   
-* **Class 2, Thur Jan 27: Review on logic, proofs, math**
+* **Class 2, Thur Jan 27: Review on Asymptotics and Graphs**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1, 2.3-2.5
   * *Lecture notes*: [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7954084/Lec.2.pdf)
