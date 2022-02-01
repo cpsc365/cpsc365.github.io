@@ -59,7 +59,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 4, Thur Feb 3: DFS: Graph connectivity, [directed graph], topological sort,**
+ * **Class 4, Thur Feb 3: DFS - Graph connectivity, Topological Sort**
    * [Link to live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 4.1
    * *Lecture notes*: will be released after lecture
