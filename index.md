@@ -33,7 +33,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  <p></p>
   
-* **Class 2, Thur Jan 27: Stable Matching Problem**
+* **Class 2, Thur Jan 27: Review on logic, proofs, math**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1, 2.3-2.5
   * *Lecture notes*: [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7954084/Lec.2.pdf)
@@ -48,7 +48,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   
  <p></p>
  
-* **Class 3, Tue Feb 1: Review on Graphs**
+* **Class 3, Tue Feb 1: Stable Matching Problem**
   * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 3.2 - 3.6
   * *Problem set*: 
@@ -59,7 +59,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 4, Thur Feb 3: Interval Scheduling Problem**
+ * **Class 4, Thur Feb 3: DFS: Graph connectivity, [directed graph], topological sort,**
    * [Link to live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 4.1
    * *Lecture notes*: will be released after lecture
