@@ -8,8 +8,11 @@
 <h1></h1>
 
 ### Announcements
+
+* *Feb 1*: Pset 1 deadline has been extended to Feb 1 @ 11:59pm.
+
+<p></p>
   
-* *Jan 27*: Review session is held via Zoom in Feb 28 Friday@ 3:00pm; [Link to live session](https://yale.zoom.us/j/7342391303)
 * *Jan 27*: [Pset 1](/psets) is updated. Make sure to download the latest version; due Feb 1.
 
 <p></p>
