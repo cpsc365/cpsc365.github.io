@@ -68,7 +68,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 <p></p>
 
 * **Discussion 1, Fri Feb 4**: 
-  *  Time and links vary; [click to view the schedule and link](/discussion)
+  *  Time and links vary; [click to view the schedule and the links](/discussion)
   *  *Notes*: PDF will be released soon.
  
 
