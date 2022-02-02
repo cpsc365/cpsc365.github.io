@@ -50,7 +50,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
 * **Class 3, Tue Feb 1: Stable Matching Problem**
-  * *Reading*: Textbook Section 3.2 - 3.6
+  * *Reading*: Textbook Section 3.1
   * *Problem set*: 
     * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
     * [Pset 2](/psets) posted; due Feb 8
@@ -61,7 +61,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  * **Class 4, Thur Feb 3: Graph explorations: Depth-First Search**
    * [Link to live session](https://yale.zoom.us/j/94057532462)
-   * *Reading*: Textbook Section 3.1
+   * *Reading*: Textbook Section 3.2 - 3.6
    * *Lecture notes*: will be released after lecture
    * *Videos*: will be released after lecture
 
