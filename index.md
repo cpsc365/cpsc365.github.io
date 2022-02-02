@@ -59,9 +59,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 4, Thur Feb 3: DFS - Graph Connectivity, Topological Sort**
+ * **Class 4, Thur Feb 3: Graph explorations: Depth-First Search**
    * [Link to live session](https://yale.zoom.us/j/94057532462)
-   * *Reading*: Textbook Section 4.1
+   * *Reading*: Textbook Section 3.1
    * *Lecture notes*: will be released after lecture
    * *Videos*: will be released after lecture
 
