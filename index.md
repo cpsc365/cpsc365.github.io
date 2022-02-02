@@ -29,7 +29,6 @@
 Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 * **Class 1, Tue Jan 25: Introduction**
-  * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1.1 - 1.2
   * *Problem set*: [Pset 1](/psets) posted; due Feb 1 @ 2:30pm
   * *Lecture notes*: [Lecture Slides for Class 1](https://github.com/cpsc365/cpsc365.github.io/files/7937353/Lec.1.pdf)
@@ -38,14 +37,12 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
   
 * **Class 2, Thur Jan 27: Review on Asymptotics and Graphs**
-  * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 1, 2.3-2.5
   * *Lecture notes*: [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7954084/Lec.2.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fc3e155-1541-45fd-8c43-ae2a015e9926)
  <p></p>
 
 * **Review 0, Fri Jan 28 @ 3:00pm: Review on Logic, Proofs, Math**
-  * [Link to live session](https://yale.zoom.us/j/7342391303)
   *  *Notes*: [Supplemental Slides about Proofs](https://github.com/cpsc365/cpsc365.github.io/files/7962841/Proofs.pdf)
   *  *Videos*: [Click to view the recorded review](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1479bda-c7fd-4bdd-96eb-ae2b016e7b16) 
   
@@ -53,7 +50,6 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
 * **Class 3, Tue Feb 1: Stable Matching Problem**
-  * [Link to live session](https://yale.zoom.us/j/94057532462)
   * *Reading*: Textbook Section 3.2 - 3.6
   * *Problem set*: 
     * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
