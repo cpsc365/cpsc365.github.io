@@ -9,12 +9,11 @@
 
 ### Announcements
 
-* *Feb 1*: The deadline for PS1 has been extended to Feb 1 @ 11:59pm.
-* *Feb 1*: [Pset 2](/psets) posted; Due Feb 8 @ 2:30pm
+* *Feb 3*: Discussion sessions start this Friday(Feb 4); [click to view the schedule and the links](/discussion)
+* *Feb 3*: [Pset 2](/psets) is updated. Make sure to download the latest version; due Feb 8.
 
-<p></p>
-  
-* *Jan 27*: [Pset 1](/psets) is updated. Make sure to download the latest version; due Feb 1.
+<p></p> 
+* *Feb 1*: [Pset 2](/psets) posted; Due Feb 8 @ 2:30pm
 
 <p></p>
 
