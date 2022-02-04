@@ -13,6 +13,7 @@
 * *Feb 3*: [Pset 2](/psets) is updated. Make sure to download the latest version; due Feb 8.
 
 <p></p> 
+
 * *Feb 1*: [Pset 2](/psets) posted; Due Feb 8 @ 2:30pm
 
 <p></p>
