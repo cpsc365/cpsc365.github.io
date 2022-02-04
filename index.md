@@ -9,7 +9,7 @@
 
 ### Announcements
 
-* *Feb 4*: Temporary change in Rohit's office hours: Monday 2-3:30 pm instead of Saturday 1-2:30 pm.[Link to Rohit's OH] (https://yale.zoom.us/j/98886949491)
+* *Feb 4*: Temporary change in Rohit's office hours: Monday 2-3:30 pm instead of Saturday 1-2:30 pm. [Link to Rohit's OH](https://yale.zoom.us/j/98886949491)
 
 * *Feb 3*: Discussion sessions start this Friday(Feb 4); [click to view the schedule and the links](/discussion)
 * *Feb 3*: [Pset 2](/psets) is updated. Make sure to download the latest version; due Feb 8.
