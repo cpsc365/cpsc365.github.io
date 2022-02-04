@@ -77,9 +77,10 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 
  <p></p>
- 
- * **Class 5, Thur Feb 8: Scheduling Problem Variants**
-   * *Reading*: Textbook Section 4.2
+
+ * **Class 5, Thur Feb 8: DFS, Breadth-First Search, Shortest Path Problem**
+   * *Classroom*: DAVIES AUD
+   * *Reading*: Textbook Section 3.2 – 3.6, 4.4
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
      * [Pset 3](/psets) posted soon after; due Feb 22
