@@ -27,5 +27,7 @@
 | Sat 1-2:30pm  |   [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)   |Rohit Giridharan    |
 | Sun 1-2:30pm  |    [https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09](https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09) | Michelle Goh      |
 | Sun 7-8:30pm  |  [ https://yale.zoom.us/j/9916776114](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
-| Sun 7-8:30pm  |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
+| * Sun 7-8:30pm  |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
 | Sun 8:30-10pm  |    [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)   |Eric Xue         |
+
+> *Note: Adit's Office hours on Sunday will be held at 1-2:30pm for Feb 6 and Feb 13
