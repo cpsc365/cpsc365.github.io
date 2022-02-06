@@ -9,7 +9,8 @@
 
 ### Announcements
 
-* *Feb 4*: Temporary change in Rohit's OH: Monday 2-3:30 pm instead of Saturday 1-2:30 pm. [Link to Rohit's OH](https://yale.zoom.us/j/98886949491)
+* *Feb 5*: Temporary change in Adit's OH: Feb 6 Feb 13 Sunday 7pm -> Feb 6 Feb 13 Sunday 1pm [Link to Adit's OH](https://yale.zoom.us/j/97198208602)
+* *Feb 4*: Temporary change in Rohit's OH: Feb 5 Saturday 1pm -> Feb 7 Monday 2pm [Link to Rohit's OH](https://yale.zoom.us/j/98886949491)
 
 <p></p>  
 
@@ -22,7 +23,6 @@
 
 <p></p>
 
-* *Jan 21*: Please sign up for [Gradescope](https://www.gradescope.com/login) and [Ed](https://edstem.org)
 * *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
 
 
