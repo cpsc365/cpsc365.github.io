@@ -16,7 +16,7 @@
 
 | Time          |   Online Links | Staff               |
 | :---:         |    :----:   |    :---:            |
-| Tue 4-5pm     |   [https://yale.zoom.us/my/wibisono](https://yale.zoom.us/my/wibisono)   |Prof. Andre Wibisono |
+| Wed 4-5pm     |   [https://yale.zoom.us/my/wibisono](https://yale.zoom.us/my/wibisono)   |Prof. Andre Wibisono |
 | Mon 7-8:30pm  |   [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)   |Andrew Wei        |
 | Mon 7-8:30pm  |  [https://yale.zoom.us/j/8543083870](https://yale.zoom.us/j/8543083870)  |Andrew Yuan       |
 | Mon 8:30-10pm |    [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
