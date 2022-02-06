@@ -4,7 +4,7 @@
 
 | Time         |   Online Links  |  Discussion Leader |
 | :---:        |    :----:   |    :---:            |
-|Fri 11-12pm (6-7pm just for Feb 4)|      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
+|Fri 11-12pm|      [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)       |  Rohit Giridharan  |
 |Fri 12-1pm|     [https://yale.zoom.us/j/99785921885](https://yale.zoom.us/j/99785921885)        |  Nevin George      |
 |Fri 1-2pm |     [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)      |  Andrew Wei        |
 |Fri 2-3pm |        [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)      |  Alex Chen         |
@@ -26,6 +26,6 @@
 | Fri 6-7:30pm  | [https://yale.zoom.us/j/98653051743](https://yale.zoom.us/j/98653051743) |Michal Gerasimiuk |
 | Sat 1-2:30pm  |   [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)   |Rohit Giridharan    |
 | Sun 1-2:30pm  |    [https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09](https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09) | Michelle Goh      |
-| Sun 7-8:30pm  |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)  |Matthew Zhang    |
+| Sun 7-8:30pm  |  [ https://yale.zoom.us/j/9916776114](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
 | Sun 7-8:30pm  |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
 | Sun 8:30-10pm  |    [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)   |Eric Xue         |
