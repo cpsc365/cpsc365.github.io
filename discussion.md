@@ -16,7 +16,7 @@
 
 | Time          |   Type| Location | Staff               |
 | :---:       |    :----:   |   :----:  |  :---:        |
-| Wed 4-5:00pm  |           |  |Prof. Andre Wibisono |
+| Wed 3-4:00pm  |      virtual      |[Link to Prof. Wibisono's office hours](https://yale.zoom.us/my/wibisono)  |Prof. Andre Wibisono |
 | Mon 7-8:30pm  | in-person | AKW 2nd lounge  |Andrew Yuan      |
 | Mon 7-8:30pm  | virtual   | [Link to Andrew's office hours](https://yale.zoom.us/j/8543083870)  |Andrew Wei       |
 | Mon 8:30-10pm | in-person | AKW 2nd lounge  |Nevin George |
