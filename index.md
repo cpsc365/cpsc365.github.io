@@ -9,7 +9,10 @@
 
 ### Announcements
 
-* *Feb 5*: Temporary change in Adit's OH: Feb 6 Feb 13 Sunday 7pm -> Feb 6 Feb 13 Sunday 1pm [Link to Adit's OH](https://yale.zoom.us/j/97198208602)
+* *Feb 5*: The OH schedule is updated; [click to view the schedule and location](/discussion)
+
+<p></p> 
+
 * *Feb 4*: Temporary change in Rohit's OH: Feb 5 Saturday 1pm -> Feb 7 Monday 2pm [Link to Rohit's OH](https://yale.zoom.us/j/98886949491)
 
 <p></p>  
