@@ -24,11 +24,6 @@
 
 * *Feb 1*: [Pset 2](/psets) posted; Due Feb 8 @ 2:30pm
 
-<p></p>
-
-* *Jan 21*: Office hours are held via zoom for the first two weeks. [Click to view the schedule and links](/discussion).
-
-
 <h1></h1>
 
 ### Course Content
