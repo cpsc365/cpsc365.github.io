@@ -14,20 +14,20 @@
 
 ## Office Hours
 
-| Time          |   Online Links | Staff               |
-| :---:         |    :----:   |    :---:            |
-| Wed 4-5pm     |   [https://yale.zoom.us/my/wibisono](https://yale.zoom.us/my/wibisono)   |Prof. Andre Wibisono |
-| Mon 7-8:30pm  |   [https://yale.zoom.us/my/andrewjwei](https://yale.zoom.us/my/andrewjwei)   |Andrew Wei        |
-| Mon 7-8:30pm  |  [https://yale.zoom.us/j/8543083870](https://yale.zoom.us/j/8543083870)  |Andrew Yuan       |
-| Mon 8:30-10pm |    [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
-| Mon 8:30-10pm |  [https://yale.zoom.us/j/9200758820](https://yale.zoom.us/j/9200758820)   |Nevin George |
-| Wed 3-4:30 pm  |  [https://yale.zoom.us/j/5845146702](https://yale.zoom.us/j/5845146702)      |Alden Tan         |
-| Thur 7-8:30pm |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
-| Fri 6-7:30pm  | [https://yale.zoom.us/j/98653051743](https://yale.zoom.us/j/98653051743) |Michal Gerasimiuk |
-| Sat 1-2:30pm  |   [ https://yale.zoom.us/j/98886949491]( https://yale.zoom.us/j/98886949491)   |Rohit Giridharan    |
-| Sun 1-2:30pm  |    [https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09](https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09) | Michelle Goh      |
-| Sun 7-8:30pm  |  [ https://yale.zoom.us/j/9916776114](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
-| * Sun 7-8:30pm  |  [https://yale.zoom.us/j/97198208602](https://yale.zoom.us/j/97198208602)   |Adit Gupta     |
-| Sun 8:30-10pm  |    [https://yale.zoom.us/j/93296101411](https://yale.zoom.us/j/93296101411)   |Eric Xue         |
+| Time          |   Type| Location | Staff               |
+| :---:       |    :----:   |   :----:  |  :---:        |
+| Wed 4-5:00pm  |           |  |Prof. Andre Wibisono |
+| Mon 7-8:30pm  | in-person | AKW 2nd lounge  |Andrew Yuan      |
+| Mon 7-8:30pm  | virtual   | [Link to Andrew's office hours](https://yale.zoom.us/j/8543083870)  |Andrew Wei       |
+| Mon 8:30-10pm | in-person | AKW 2nd lounge  |Nevin George |
+| Mon 8:30-10pm | virtual   |[Link to Alex's office hours](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
+| Wed 3-4:30 pm | in-person |  AKW 2nd lounge |Alden Tan         |
+| Thur 7-8:30pm | in-person | AKW 2nd lounge |Adit Gupta     |
+| Fri 6-7:30pm  | in-person | AKW 2nd lounge |Michal Gerasimiuk |
+| Sat 1-2:30pm  | in-person | AKW 2nd lounge  |Rohit Giridharan    |
+| Sun 1-2:30pm  | virtual  |[Link to Michelle's office hours](https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09) | Michelle Goh      |
+| Sun 7-8:30pm  | in-person |  AKW 2nd lounge |Adit Gupta     |
+| Sun 7-8:30pm  | virtual   | [Link to Matthew's office hours](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
+| Sun 8:30-10pm | virtual   | [Link to Eric's office hours](https://yale.zoom.us/j/93296101411)   |Eric Xue         |
 
-> *Note: Adit's Office hours on Sunday will be held at 1-2:30pm for Feb 6 and Feb 13
+
