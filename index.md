@@ -77,7 +77,6 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
 
  * **Class 5, Thur Feb 8: DFS, Breadth-First Search, Shortest Path Problem**
-   * *Classroom*: DAVIES AUD
    * *Reading*: Textbook Section 3.2 – 3.6, 4.4
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
@@ -88,10 +87,11 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
   * **Class 6, Thur Feb 10: Shortest path in weighted graph: Dijkstra’s algorithm, implementation, running time**
-    * *Classroom*: DAVIES AUD
     * *Reading*: Textbook Section 3.2 – 3.6, 4.4
     * *Lecture notes*: will be released after lecture
     * *Videos*: will be released after lecture
+ 
+ <p></p>
 
 * **Discussion 2, Fri Feb 11**: 
   *  Time and location vary; [click to view the schedule](/discussion)
