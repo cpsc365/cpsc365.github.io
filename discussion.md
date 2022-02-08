@@ -18,7 +18,7 @@
 | :---:       |    :----:   |   :----:  |  :---:        |
 | Wed 3-4:00pm  |      virtual      |[Link to Prof. Wibisono's office hours](https://yale.zoom.us/my/wibisono)  |Prof. Andre Wibisono |
 | Mon 7-8:30pm  | in-person | AKW 2nd lounge  |Andrew Yuan      |
-| Mon 7-8:30pm  | virtual   | [Link to Andrew's office hours](https://yale.zoom.us/j/8543083870)  |Andrew Wei       |
+| Mon 7-8:30pm  | virtual   | [Link to Andrew's office hours](https://yale.zoom.us/my/andrewjwei)  |Andrew Wei       |
 | Mon 8:30-10pm | in-person | AKW 2nd lounge  |Nevin George |
 | Mon 8:30-10pm | virtual   |[Link to Alex's office hours](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
 | Wed 3-4:30 pm | in-person |  AKW 2nd lounge |Alden Tan         |
