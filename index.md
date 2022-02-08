@@ -10,20 +10,15 @@
 
 ### Announcements
 
+* *Feb 8*: [Pset 3](/psets) posted; Due Feb 22 @ 2:30pm
+
+<p></p>  
+
 * *Feb 5*: The OH schedule is updated; [click to view the schedule and location](/discussion)
-
-<p></p> 
-
-* *Feb 4*: Temporary change in Rohit's OH: Feb 5 Saturday 1pm -> Feb 7 Monday 2pm [Link to Rohit's OH](https://yale.zoom.us/j/98886949491)
 
 <p></p>  
 
 * *Feb 3*: Discussion sessions start this Friday(Feb 4); [click to view the schedule and the links](/discussion)
-* *Feb 3*: [Pset 2](/psets) is updated. Make sure to download the latest version; due Feb 8.
-
-<p></p> 
-
-* *Feb 1*: [Pset 2](/psets) posted; Due Feb 8 @ 2:30pm
 
 <h1></h1>
 
@@ -86,7 +81,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    * *Reading*: Textbook Section 3.2 – 3.6, 4.4
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
-     * [Pset 3](/psets) posted soon after; due Feb 22
+     * [Pset 3](/psets) posted; due Feb 22
    * *Lecture notes*: will be released after lecture
    * *Videos*: will be released after lecture
 
