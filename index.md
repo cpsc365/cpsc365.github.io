@@ -93,11 +93,10 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
   * **Class 6, Thur Feb 10: Shortest path in weighted graph: Dijkstra’s algorithm, implementation, running time**
-   * *Classroom*: DAVIES AUD
-   * *Reading*: Textbook Section 3.2 – 3.6, 4.4
-   * *Problem set*: 
-   * *Lecture notes*: will be released after lecture
-   * *Videos*: will be released after lecture
+    * *Classroom*: DAVIES AUD
+    * *Reading*: Textbook Section 3.2 – 3.6, 4.4
+    * *Lecture notes*: will be released after lecture
+    * *Videos*: will be released after lecture
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;
