@@ -4,12 +4,12 @@
 
 | Time         |   Location   |  Discussion Leader |
 | :---:        |    :----:   |    :---:            |
-|Fri 11-12pm|      TBA       |  Rohit Giridharan  |
-|Fri 12-1pm|     TBA         |  Nevin George      |
-|Fri 1-2pm |    TBA         |  Andrew Wei        |
-|Fri 2-3pm |        TBA        |  Alex Chen         |
-|Fri 3-4pm |         TBA     |  Eric Xue          |
-|Fri 4-5pm |  TBA            |  Alden Tan         |
+|Fri 11-12pm|      HLH17 111     |  Rohit Giridharan  |
+|Fri 12-1pm|     HLH17 05         |  Nevin George      |
+|Fri 1-2pm |    HLH17 111         |  Andrew Wei        |
+|Fri 2-3pm |  HLH17 05        |  Alex Chen         |
+|Fri 3-4pm |  HLH17 115     |  Eric Xue          |
+|Fri 4-5pm |  HLH17 05            |  Alden Tan         |
 
 
 ## Office Hours
