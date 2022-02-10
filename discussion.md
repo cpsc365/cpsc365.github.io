@@ -25,8 +25,8 @@
 | Thur 7-8:30pm | in-person | AKW 2nd lounge |Adit Gupta     |
 | Fri 6-7:30pm  | in-person | AKW 2nd lounge |Michal Gerasimiuk |
 | Sat 1-2:30pm  | in-person | AKW 2nd lounge  |Rohit Giridharan    |
-| Sun 1-2:30pm  | virtual  |[Link to Michelle's office hours](https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09) | Michelle Goh      |
-| Sun 7-8:30pm  | in-person |  AKW 2nd lounge |Adit Gupta     |
+| Sun 1-2:30pm  | virtual  |[Link to Adit's office hours](https://yale.zoom.us/j/97198208602) | Adit Gupta       |
+| Sun 7-8:30pm  | in-person |  AKW 2nd lounge | Michelle Goh   |
 | Sun 7-8:30pm  | virtual   | [Link to Matthew's office hours](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
 | Sun 8:30-10pm | virtual   | [Link to Eric's office hours](https://yale.zoom.us/j/93296101411)   |Eric Xue         |
 
