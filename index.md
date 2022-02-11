@@ -76,8 +76,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  <p></p>
 
- * **Class 5, Thur Feb 8: DFS, Breadth-First Search, Shortest Path Problem**
-   * *Reading*: Textbook Section 3.2 – 3.6, 4.4
+ * **Class 5, Tue Feb 8: Depth First-search**
+   * *Reading*: Textbook Section 3.2 – 3.6
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
      * [Pset 3](/psets) posted; due Feb 22
@@ -86,8 +86,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
-  * **Class 6, Thur Feb 10: Shortest path in weighted graph: Dijkstra’s algorithm, implementation, running time**
-    * *Reading*: Textbook Section 3.2 – 3.6, 4.4
+  * **Class 6, Thur Feb 10: Breath-First Search, Shortest path in weighted graph: Dijkstra’s algorithm**
+    * *Reading*: Textbook Section 3.2 – 3.6
     * *Lecture notes*: scribe note will be posted soon. 
     * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ca6abea-282f-415f-baa9-ae32013fb0c0)
  
@@ -97,5 +97,20 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  Time and location vary; [click to view the schedule](/discussion)
   *  *Practice Problem*s: 
      * [Discussion 2](https://github.com/cpsc365/cpsc365.github.io/files/8045152/Disc2.pdf)
+
+ <p></p>
+ 
+* **Class 7, Tue Feb 15: Proof of Correcteness Dijkstra’s algorithm, Implementation 
+*  *Reading*: Textbook Section 4.4
+    * *Lecture notes*: scribe note will be posted soon. 
+    * *Videos*: will be released after the lecture 
+ 
+ <p></p>
+ 
+* **Class 8, Thur Feb 17: Minimal Spanning Tree
+*  *Reading*: Textbook Section 4.4
+    * *Lecture notes*: scribe note will be posted soon. 
+    * *Videos*: will be released after the lecture
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
