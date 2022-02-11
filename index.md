@@ -101,16 +101,16 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
 * **Class 7, Tue Feb 15: Proof of Correcteness Dijkstra’s algorithm, Implementation** 
-*  *Reading*: Textbook Section 4.4
-    * *Lecture notes*: scribe note will be posted soon. 
-    * *Videos*: will be released after the lecture 
+  *  *Reading*: Textbook Section 4.4
+  * *Lecture notes*: scribe note will be posted soon. 
+  * *Videos*: will be released after the lecture 
  
  <p></p>
  
 * **Class 8, Thur Feb 17: Minimal Spanning Tree**
-*  *Reading*: Textbook Section 4.4
-    * *Lecture notes*: scribe note will be posted soon. 
-    * *Videos*: will be released after the lecture
+  *  *Reading*: Textbook Section 4.4
+  * *Lecture notes*: scribe note will be posted soon. 
+  * *Videos*: will be released after the lecture
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
