@@ -97,6 +97,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 * **Discussion 2, Fri Feb 11**: 
   *  Time and location vary; [click to view the schedule](/discussion)
-  *  *Practice Problem*s: will be posted soon after
- 
+  *  *Practice Problem*s: 
+     * [Discussion 2](https://github.com/cpsc365/cpsc365.github.io/files/8045152/Disc2.pdf)
+
 &nbsp;&nbsp;&nbsp;&nbsp;
