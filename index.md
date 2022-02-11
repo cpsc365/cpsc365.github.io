@@ -10,15 +10,13 @@
 
 ### Announcements
 
+* *Feb 10*: Discussion sessions will be in-person; [click to view the schedule and the location](/discussion)
+
 * *Feb 8*: [Pset 3](/psets) posted; Due Feb 22 @ 2:30pm
 
 <p></p>  
 
 * *Feb 5*: The OH schedule is updated; [click to view the schedule and location](/discussion)
-
-<p></p>  
-
-* *Feb 3*: Discussion sessions start this Friday(Feb 4); [click to view the schedule and the links](/discussion)
 
 <h1></h1>
 
