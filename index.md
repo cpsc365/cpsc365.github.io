@@ -10,7 +10,7 @@
 
 ### Announcements
 
-* *Feb 10*: Discussion sessions will be in-person; [click to view the schedule and the location](/discussion)
+* *Feb 10*: Discussion sessions will be in-person strating Feb 11; [click to view the schedule and the location](/discussion)
 
 * *Feb 8*: [Pset 3](/psets) posted; Due Feb 22 @ 2:30pm
 
