@@ -41,7 +41,7 @@ by yourself.
 | :---:     |   :----:      |  :----:  |
 |  Review 0  | Fri Jan 25 | via [Zoom](https://yale.zoom.us/j/7342391303)  |
 |  [Discussion 1](files/pset/Dis1New.pdf) | Fri Feb 4  | via Zoom; time varies; [click to view the schedule](/discussion.md)|
-|  Discussion 2   | Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
+|  [Discussion 2](files/pset/Dis2.pdf)| Fri Feb 11  | In-person; time varies; [click to view the schedule](/discussion.md) |
 
 
 
