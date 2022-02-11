@@ -83,15 +83,15 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
      * [Pset 3](/psets) posted; due Feb 22
-   * *Lecture notes*: will be released after lecture
+   * *Lecture notes*: scribe note will be posted soon
    * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a08ac00e-7b87-4e23-b6e7-ae32013fb074)
  
  <p></p>
  
   * **Class 6, Thur Feb 10: Shortest path in weighted graph: Dijkstra’s algorithm, implementation, running time**
     * *Reading*: Textbook Section 3.2 – 3.6, 4.4
-    * *Lecture notes*: will be released after lecture
-    * *Videos*: will be released after lecture
+    * *Lecture notes*: scribe note will be posted soon. 
+    * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ca6abea-282f-415f-baa9-ae32013fb0c0)
  
  <p></p>
 
