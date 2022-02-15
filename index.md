@@ -122,4 +122,6 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  Time and location vary; [click to view the schedule](/discussion)
   *  *Practice Problems*: will be released soon  
 
+ <p></p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
