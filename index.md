@@ -116,5 +116,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Lecture notes*: scribe note will be posted soon. 
   * *Videos*: will be released after the lecture
 
+* **Discussion 3, Fri Feb 18**: 
+  *  Time and location vary; [click to view the schedule](/discussion)
+  *  *Practice Problems*: will be released soon  
 
 &nbsp;&nbsp;&nbsp;&nbsp;
