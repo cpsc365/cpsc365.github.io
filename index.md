@@ -27,7 +27,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 1, Tue Jan 25: Introduction**
   * *Reading*: Textbook Section 1.1 - 1.2
   * *Problem set*: [Pset 1](/psets) posted; due Feb 1 @ 2:30pm
-  * *Lecture notes*: [Lecture Slides for Class 1](https://github.com/cpsc365/cpsc365.github.io/files/7937353/Lec.1.pdf)
+  * *Lecture notes*: 
+    * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/7937353/Lec.1.pdf)
+    * [Scirbe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8073242/lect1-notes.pdf)
   * *Video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4aec5f8e-1c9c-4f2e-877d-ae28015c64a1)
 
  <p></p>
@@ -35,8 +37,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 2, Thur Jan 27: Review on Asymptotics and Graphs**
   * *Reading*: Textbook Section 1, 2.3-2.5
   * *Lecture notes*: 
-    * [Lecture Slides for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7954084/Lec.2.pdf)
-    * [Scribe Notes for Class 2](https://github.com/cpsc365/cpsc365.github.io/files/7998487/Scribe.Notes.Lec.2.pdf)
+    * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/7954084/Lec.2.pdf)
+    * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/7998487/Scribe.Notes.Lec.2.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fc3e155-1541-45fd-8c43-ae2a015e9926)
  
  <p></p>
@@ -54,7 +56,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
     * [Pset 1](/psets) due; submit to [Gradescope](https://www.gradescope.com)
     * [Pset 2](/psets) posted; due Feb 8
   * *Lecture notes*: 
-     * [Lecture Slides for Class 3](https://github.com/cpsc365/cpsc365.github.io/files/7981882/CPSC.365.-.Lec.3.Stable.Matching.pdf)
+     * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/7981882/CPSC.365.-.Lec.3.Stable.Matching.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89b7223-ac76-4c7b-bce8-ae2f01648a12)
  
  <p></p>
@@ -62,7 +64,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  * **Class 4, Thur Feb 3: Graph explorations**
    * *Reading*: Textbook Section 3.2 - 3.6
    * *Lecture notes*:
-     * [Lecture Slides for Class 4](https://github.com/cpsc365/cpsc365.github.io/files/7998469/CPSC.365.-.Lec.4_.Depth-First.Search.pdf)
+     * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/7998469/CPSC.365.-.Lec.4_.Depth-First.Search.pdf)
+     * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8073248/lect4-notes.pdf)
    * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5329ba1a-6515-4a35-8294-ae310166346d)
 
 <p></p>
@@ -81,7 +84,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
      * [Pset 3](/psets) posted; due Feb 22
-   * *Lecture notes*: scribe note will be posted soon
+   * *Lecture notes*: 
+     * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8073250/lect5-notes.pdf)
    * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a08ac00e-7b87-4e23-b6e7-ae32013fb074)
  
  <p></p>
