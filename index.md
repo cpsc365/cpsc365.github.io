@@ -10,6 +10,8 @@
 
 ### Announcements
 
+* *Feb 17*: Room change of Rohit's Discussion Session @ 11:00 am: ML104
+
 * *Feb 10*: Discussion sessions will be in-person strating Feb 11; [click to view the schedule and the location](/discussion)
 
 * *Feb 8*: [Pset 3](/psets) posted; Due Feb 22 @ 2:30pm
@@ -113,13 +115,14 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
 * **Class 8, Thur Feb 17: Minimal Spanning Tree**
   *  *Reading*: Textbook Section 4.4
-  * *Lecture notes*: scribe note will be posted soon. 
-  * *Videos*: will be released after the lecture
+  *  *Lecture notes*: scribe note will be posted soon. 
+  *  *Videos*: will be released after the lecture
 
  <p></p>
  
 * **Discussion 3, Fri Feb 18**: 
   *  Time and location vary; [click to view the schedule](/discussion)
+     * *note*: the session @ 11:00 a will be held in ML104 
   *  *Practice Problems*: will be released soon  
 
  <p></p>
