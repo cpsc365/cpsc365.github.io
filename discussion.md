@@ -4,7 +4,7 @@
 
 | Time         |   Location   |  Discussion Leader |
 | :---:        |    :----:   |    :---:            |
-|Fri 11-12pm|      HLH17 111     |  Rohit Giridharan  |
+|Fri 11-12pm|      ML 104     |  Rohit Giridharan  |
 |Fri 12-1pm|     HLH17 05         |  Nevin George      |
 |Fri 1-2pm |    HLH17 111         |  Andrew Wei        |
 |Fri 2-3pm |  HLH17 05        |  Alex Chen         |
