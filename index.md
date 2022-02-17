@@ -11,7 +11,9 @@
 ### Announcements
 
 * *Feb 17*: Room change of Rohit's Discussion Session @ 11:00 am: ML104
-* * *Feb 17*: Room change of Andrew's Discussion Session @ 1:00 am: HLH17 113
+* *Feb 17*: Room change of Andrew's Discussion Session @ 1:00 am: HLH17 113
+
+<p></p> 
 
 * *Feb 10*: Discussion sessions will be in-person strating Feb 11; [click to view the schedule and the location](/discussion)
 
