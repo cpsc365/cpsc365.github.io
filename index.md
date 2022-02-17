@@ -122,7 +122,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
 * **Discussion 3, Fri Feb 18**: 
   *  Time and location vary; [click to view the schedule](/discussion)
-     * *note*: the session @ 11:00 a will be held in ML104 
+     * Romm change of the session @ 11:00: ML104 
   *  *Practice Problems*: will be released soon  
 
  <p></p>
