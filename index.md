@@ -5,7 +5,7 @@
 
 **Instructor**: Dr. Andre Wibisono <br>
 **Times**: Tu/Th 2:30-3:45pm <br>
-**Classroom: David Auditorium
+**Classroom**: David Auditorium
 <h1></h1>
 
 ### Announcements
