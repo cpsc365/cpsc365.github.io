@@ -118,8 +118,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
 * **Class 8, Thur Feb 17: Minimal Spanning Tree**
   *  *Reading*: Textbook Section 4.4
-  *  *Lecture notes*: scribe note will be posted soon. 
-  *  *Videos*: will be released after the lecture
+  *  *Lecture notes*: 
+     * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8093857/CPSC.365.Lecture.8.pdf)
+  *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64c2d387-096a-4d42-b30e-ae32013fb2d5)
 
  <p></p>
  
