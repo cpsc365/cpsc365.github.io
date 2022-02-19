@@ -42,7 +42,7 @@ by yourself.
 |  Review 0  | Fri Jan 25 |  - |
 |  [Discussion 1](files/pset/Dis1New.pdf) | Fri Feb 4  | [Disc1Sol](https://github.com/cpsc365/cpsc365.github.io/files/8065394/Disc1Sol.pdf)|
 |  [Discussion 2](files/pset/Dis2.pdf)| Fri Feb 11  | [Disc2Sol](https://github.com/cpsc365/cpsc365.github.io/files/8065385/Disc2Sol.pdf) |
-| [Discussion 3](files/pset/Dis3.pdf)| Fri Feb 18  | [Disc3Sol.pdf](https://github.com/cpsc365/cpsc365.github.io/files/8101144/Disc3Sol.pdf)|
+| [Discussion 3](files/pset/Dis3.pdf)| Fri Feb 18  | [Disc3Sol](https://github.com/cpsc365/cpsc365.github.io/files/8101144/Disc3Sol.pdf)|
 
 
 
