@@ -129,6 +129,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
      * Romm change of the session @ 11:00: ML104 
   *  *Practice Problems*: 
      *  [Discussion 3](https://github.com/cpsc365/cpsc365.github.io/files/8093847/Disc3.pdf)
+     *  [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8101143/Disc3Sol.pdf)
+
 
 
  <p></p>
