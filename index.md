@@ -89,7 +89,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    * *Problem set*: 
      * [Pset 2](/psets) due; submit to [Gradescope](https://www.gradescope.com)
      * [Pset 3](/psets) posted; due Feb 22
-   * *Lectute Notes*: [Click to view the scribe notes](https://github.com/cpsc365/cpsc365.github.io/files/8073250/lect5-notes.pdf)
+   * *Lectute Notes*: 
+     * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8073250/lect5-notes.pdf)
    * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a08ac00e-7b87-4e23-b6e7-ae32013fb074)
  
  <p></p>
