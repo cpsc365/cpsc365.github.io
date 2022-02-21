@@ -62,6 +62,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
     * [Pset 2](/psets) posted; due Feb 8
   * *Lecture notes*: 
      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/7981882/CPSC.365.-.Lec.3.Stable.Matching.pdf)
+     *  Scribe note will be posted soon
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89b7223-ac76-4c7b-bce8-ae2f01648a12)
  
  <p></p>
