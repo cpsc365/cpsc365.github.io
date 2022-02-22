@@ -136,22 +136,22 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
  * **Class 9, Tue Feb 22: Divide-and-Conquer 1: Integer Multiplication**
-  *  *Reading*: Textbook Section 4.5
-  *  *Lecture notes*: will be released soon
-  *  *Videos*: will be released soon
+   *  *Reading*: Textbook Section 4.5
+   *  *Lecture notes*: will be released soon
+   *  *Videos*: will be released soon
 
  <p></p>
 
  * **Class 10, Tur Feb 24: Divide-and-Conquer 2: Mergesort, Master Theorem**
-  *  *Reading*: Textbook Section 4.5
-  *  *Lecture notes*: will be released soon
-  *  *Videos*: will be released soon
+   *  *Reading*: Textbook Section 4.5
+   *  *Lecture notes*: will be released soon
+   *  *Videos*: will be released soon
 
  <p></p>
  
  * **Discussion 4, Fri Feb 18**: 
-  *  Time and location vary; [click to view the schedule and location info](/discussion)
-  *  *Practice Problems*: will be released soon
+   *  Time and location vary; [click to view the schedule and location info](/discussion)
+   *  *Practice Problems*: will be released soon
  
  <p></p>
 
