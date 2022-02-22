@@ -133,8 +133,26 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
      *  [Discussion 3](https://github.com/cpsc365/cpsc365.github.io/files/8093847/Disc3.pdf)
      *  [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8101143/Disc3Sol.pdf)
 
+ <p></p>
+ 
+ * **Class 9, Tue Feb 22: Divide-and-Conquer 1: Integer Multiplication**
+  *  *Reading*: Textbook Section 4.5
+  *  *Lecture notes*: will be released soon
+  *  *Videos*: will be released soon
 
+ <p></p>
 
+ * **Class 10, Tur Feb 24: Divide-and-Conquer 2: Mergesort, Master Theorem**
+  *  *Reading*: Textbook Section 4.5
+  *  *Lecture notes*: will be released soon
+  *  *Videos*: will be released soon
+
+ <p></p>
+ 
+ * **Discussion 4, Fri Feb 18**: 
+  *  Time and location vary; [click to view the schedule and location info](/discussion)
+  *  *Practice Problems*: will be released soon
+ 
  <p></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
