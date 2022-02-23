@@ -10,18 +10,12 @@
 
 ### Announcements
 
-* *Feb 17*: Room change of Rohit's Discussion Session @ 11:00 am: ML104
-* *Feb 17*: Room change of Andrew's Discussion Session @ 1:00 am: HLH17 113
+* *Feb 22*: Lecture 10 (Feb 24) will be held via Zoom: https://yale.zoom.us/j/94057532462
+* *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
 
 <p></p> 
 
 * *Feb 10*: Discussion sessions will be in-person strating Feb 11; [click to view the schedule and the location](/discussion)
-
-* *Feb 8*: [Pset 3](/psets) posted; Due Feb 22 @ 2:30pm
-
-<p></p>  
-
-* *Feb 5*: The OH schedule is updated; [click to view the schedule and location](/discussion)
 
 <h1></h1>
 
@@ -137,12 +131,15 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  * **Class 9, Tue Feb 22: Divide-and-Conquer 1: Integer Multiplication**
    *  *Reading*: Textbook Section 4.5
+   *  *Problem set*: 
+      * [Pset 4](/psets) posted; due Mar 8 @ 2:30 pm
    *  *Lecture notes*: will be released soon
-   *  *Videos*: will be released soon
+   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0856785b-41d2-41c5-acc8-ae32013fb2ec)
 
  <p></p>
 
  * **Class 10, Tur Feb 24: Divide-and-Conquer 2: Mergesort, Master Theorem**
+   *  [Link to Live Session](https://yale.zoom.us/j/94057532462)
    *  *Reading*: Textbook Section 4.5
    *  *Lecture notes*: will be released soon
    *  *Videos*: will be released soon
