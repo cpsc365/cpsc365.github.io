@@ -10,7 +10,7 @@
 
 ### Announcements
 
-* *Feb 23*: Our TF John hold Additional office hours on Thursdays from 4.30-5.30pm, starting Feb 24
+* *Feb 23*: Our TF, John holds Additional office hours on Thursdays from 4.30-5.30pm, starting Feb 24
 
 <p></p> 
 
