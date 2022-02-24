@@ -12,6 +12,8 @@
 
 * *Feb 23*: Our TF John hold Additional office hours on Thursdays from 4.30-5.30pm, starting Feb 24
 
+<p></p> 
+
 * *Feb 22*: Lecture 10 (Feb 24) will be held via Zoom: https://yale.zoom.us/j/94057532462
 * *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
 
