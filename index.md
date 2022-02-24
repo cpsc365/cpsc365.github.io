@@ -137,7 +137,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 4.5
    *  *Problem set*: 
       * [Pset 4](/psets) posted; due Mar 8 @ 2:30 pm
-   *  *Lecture notes*: will be released soon
+   *  *Lecture notes*: 
+      *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8136557/CPSC.365.Lecture.9.-.Divide.and.Conquer.pdf)
+
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0856785b-41d2-41c5-acc8-ae32013fb2ec)
 
  <p></p>
@@ -145,7 +147,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  * **Class 10, Tur Feb 24: Divide-and-Conquer 2: Mergesort, Master Theorem**
    *  [Link to Live Session](https://yale.zoom.us/j/94057532462)
    *  *Reading*: Textbook Section 4.5
-   *  *Lecture notes*: will be released soon
+   *  *Lecture notes*: 
+      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8136561/CPSC.365.Lecture.10.-.Divide.and.Conquer.2.pdf)
    *  *Videos*: will be released soon
 
  <p></p>
