@@ -22,7 +22,7 @@
 | Mon 8:30-10pm | in-person | AKW 2nd lounge  |Nevin George |
 | Mon 8:30-10pm | virtual   |[Link to Alex's office hours](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
 | Wed 3-4:30 pm | in-person |  AKW 2nd lounge |Alden Tan         |
-| Thur 4-5:30pm | in-person | [Link to John's offie hours](https://yale.zoom.us/j/96298579332)|John Lazarsfeld(TF)|
+| Thur 4-5:30pm | virtual | [Link to John's offie hours](https://yale.zoom.us/j/96298579332)|John Lazarsfeld(TF)|
 | Thur 7-8:30pm | in-person | AKW 2nd lounge |Adit Gupta     |
 | Fri 6-7:30pm  | in-person | AKW 2nd lounge |Michal Gerasimiuk |
 | Sat 1-2:30pm  | in-person | AKW 2nd lounge  |Rohit Giridharan    |
