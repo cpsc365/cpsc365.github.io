@@ -10,7 +10,7 @@
 
 ### Announcements
 
-* *Feb 23*: Our TF, John holds Additional office hours on Thursdays from 4.30-5.30pm, starting Feb 24
+* *Feb 23*: Our TF, John holds Additional office hours on Thursdays from 4.30-5.30pm via Zoom:[https://yale.zoom.us/j/96298579332] (https://yale.zoom.us/j/96298579332)
 
 <p></p> 
 
