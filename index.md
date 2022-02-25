@@ -149,7 +149,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 4.5
    *  *Lecture notes*: 
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8136561/CPSC.365.Lecture.10.-.Divide.and.Conquer.2.pdf)
-   *  *Videos*: [Click to view the recorded lecture][https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a6f78f8-5ad3-4314-9232-ae4601600823]
+   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a6f78f8-5ad3-4314-9232-ae4601600823)
 
  <p></p>
  
