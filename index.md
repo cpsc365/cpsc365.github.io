@@ -60,7 +60,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
     * [Pset 2](/psets) posted; due Feb 8
   * *Lecture notes*: 
      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/7981882/CPSC.365.-.Lec.3.Stable.Matching.pdf)
-     *  Scribe note will be posted soon
+     * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8137364/Lec.3.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f89b7223-ac76-4c7b-bce8-ae2f01648a12)
  
  <p></p>
@@ -96,7 +96,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
   * **Class 6, Thur Feb 10: Breath-First Search, Shortest path in weighted graph: Dijkstra’s algorithm**
     * *Reading*: Textbook Section 3.2 – 3.6
-    * *Lecture notes*: scribe note will be posted soon. 
+    * *Lecture:
+      * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8137366/Lec.6.pdf)
     * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ca6abea-282f-415f-baa9-ae32013fb0c0)
  
  <p></p>
@@ -154,7 +155,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  * **Discussion 4, Fri Feb 18**: 
    *  Time and location vary; [click to view the schedule and location info](/discussion)
-   *  *Practice Problems*: will be released soon
+   *  *Practice Problems*: 
+      *  [Discussion 4](https://github.com/cpsc365/cpsc365.github.io/files/8137363/Disc4.pdf)
+
  
  <p></p>
 
