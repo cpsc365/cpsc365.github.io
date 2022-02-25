@@ -136,7 +136,7 @@ serving as TF for CPSC365, and I'm looking forward to a great term.
 
 * Office Hours: Sun 8.30-10pm
 
-* I'm a senior studying Econ/CS and Mathematics from Vancouver, Canada. My various interests include NBA basketball, strategy games, and strength training. Hope you have a great semester!
+* I'm a senior in Silliman majoring in CS and math. Academically, I'm interested in algorithmic game theory. Otherwise, I like animation, coffee, and more recently, philosophy. Feel free to reach out about anything.
 
 
 #### Andrew Yuan
