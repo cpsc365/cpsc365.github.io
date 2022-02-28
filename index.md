@@ -151,7 +151,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  <p></p>
  
- * **Discussion 4, Fri Feb 18**: 
+ * **Discussion 4, Fri Feb 25**: 
    *  Time and location vary; [click to view the schedule and location info](/discussion)
    *  *Practice Problems*: 
       *  [Discussion 4](https://github.com/cpsc365/cpsc365.github.io/files/8137363/Disc4.pdf)
@@ -159,5 +159,26 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  
  <p></p>
+ 
+ * **Class 11, Tue Mar 1: Dynamic Programming 1**
+   *  *Reading*: Textbook Section 4.6
+   *  *Lecture notes*: will be released after lecture
+   *  *Videos*: will be posted after lecture
+ 
+ <p></p>
+
+ * **Class 12, Thur Mar 3: Dynamic Programming 2**
+   *  *Reading*: Textbook Section 4.6
+   *  *Lecture notes*: will be released after lecture
+   *  *Videos*: will be posted after lecture
+
+<p></p>
+
+ * **Discussion 5, Fri Mar 4**: 
+   *  Time and location vary; [click to view the schedule and location info](/discussion)
+   *  *Practice Problems*: will be posted soon
+
+<p></p>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
