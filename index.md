@@ -157,6 +157,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  Time and location vary; [click to view the schedule and location info](/discussion)
    *  *Practice Problems*: 
       *  [Discussion 4](https://github.com/cpsc365/cpsc365.github.io/files/8137363/Disc4.pdf)
+      *  [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8150613/Disc4Sols.pdf)
 
  
  <p></p>
