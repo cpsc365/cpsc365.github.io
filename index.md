@@ -133,7 +133,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
  * **Class 9, Tue Feb 22: Divide-and-Conquer 1: Integer Multiplication**
-   *  *Reading*: Textbook Section 4.5
+   *  *Reading*: Textbook Section 5
    *  *Problem set*: 
       * [Pset 4](/psets) posted; due Mar 8 @ 2:30 pm
    *  *Lecture notes*: 
@@ -145,7 +145,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  * **Class 10, Tur Feb 24: Divide-and-Conquer 2: Mergesort, Master Theorem**
    *  [Link to Live Session](https://yale.zoom.us/j/94057532462)
-   *  *Reading*: Textbook Section 4.5
+   *  *Reading*: Textbook Section 5
    *  *Lecture notes*: 
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8136561/CPSC.365.Lecture.10.-.Divide.and.Conquer.2.pdf)
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a6f78f8-5ad3-4314-9232-ae4601600823)
@@ -162,14 +162,14 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
  * **Class 11, Tue Mar 1: Dynamic Programming 1**
-   *  *Reading*: Textbook Section 4.6
+   *  *Reading*: Textbook Section 6
    *  *Lecture notes*: will be released after lecture
    *  *Videos*: will be posted after lecture
  
  <p></p>
 
  * **Class 12, Thur Mar 3: Dynamic Programming 2**
-   *  *Reading*: Textbook Section 4.6
+   *  *Reading*: Textbook Section 6
    *  *Lecture notes*: will be released after lecture
    *  *Videos*: will be posted after lecture
 
