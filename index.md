@@ -15,11 +15,8 @@
 
 <p></p> 
 
-* *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
+ * *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
 
-<p></p> 
-
-* *Feb 10*: Discussion sessions will be in-person strating Feb 11; [click to view the schedule and the location](/discussion)
 
 <h1></h1>
 
