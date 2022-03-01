@@ -167,6 +167,12 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Videos*: will be posted after lecture
  
  <p></p>
+ 
+ * **Special Review Session, Tue Mar 1 @ 4:30 -5:30 pm **: 
+   * [Link to Live Session](https://yale.zoom.us/j/96298579332)
+
+
+  <p></p>
 
  * **Class 12, Thur Mar 3: Dynamic Programming 2: Knapsack, longest increasing subsequence**
    *  *Reading*: Textbook Section 6
