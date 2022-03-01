@@ -168,7 +168,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Lecture notes*: 
       *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8164874/Slide.11.-.Dynamic.Programming.1.pdf)
       *  Scribe notes will be posted soon 
- *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2786b14a-b71d-4b24-b1e1-ae32013fb4dc) 
+   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2786b14a-b71d-4b24-b1e1-ae32013fb4dc) 
  
  <p></p>
  
