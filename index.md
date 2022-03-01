@@ -149,6 +149,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 5
    *  *Lecture notes*: 
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8136561/CPSC.365.Lecture.10.-.Divide.and.Conquer.2.pdf)
+      * Scribe notes will be posted soon 
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a6f78f8-5ad3-4314-9232-ae4601600823)
 
  <p></p>
@@ -164,8 +165,10 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  * **Class 11, Tue Mar 1: Dynamic Programming 1: Fibonacci, Shortest paths**
    *  *Reading*: Textbook Section 6
-   *  *Lecture notes*: will be released after lecture
-   *  *Videos*: will be posted after lecture
+   *  *Lecture notes*: 
+      *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8164874/Slide.11.-.Dynamic.Programming.1.pdf)
+      *  Scribe notes will be posted soon 
+ *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2786b14a-b71d-4b24-b1e1-ae32013fb4dc) 
  
  <p></p>
  
