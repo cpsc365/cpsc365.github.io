@@ -161,14 +161,14 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 11, Tue Mar 1: Dynamic Programming 1**
+ * **Class 11, Tue Mar 1: Dynamic Programming 1: Fibonacci, Shortest paths**
    *  *Reading*: Textbook Section 6
    *  *Lecture notes*: will be released after lecture
    *  *Videos*: will be posted after lecture
  
  <p></p>
 
- * **Class 12, Thur Mar 3: Dynamic Programming 2**
+ * **Class 12, Thur Mar 3: Dynamic Programming 2: Knapsack, longest increasing subsequence**
    *  *Reading*: Textbook Section 6
    *  *Lecture notes*: will be released after lecture
    *  *Videos*: will be posted after lecture
