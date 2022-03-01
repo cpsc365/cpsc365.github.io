@@ -10,6 +10,8 @@
 
 ### Announcements
 
+* *Mar 1*: Change of Alden's offie hours to 2:30 - 4:00pm, starting Mar 2. 
+
 * *Feb 28*: John holds a special session On Tuesday, March 1 from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
 * *Feb 23*: Our TF, John holds additional office hours on Thursdays from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
 
