@@ -109,7 +109,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
 * **Class 7, Tue Feb 15: Proof of Correcteness Dijkstra’s algorithm, Implementation** 
   *  *Reading*: Textbook Section 4.4
-  * *Lecture notes*: scribe note will be posted soon. 
+  * *Lecture notes*: 
+    * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8164821/Scribe.Notes.Lec.7.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9f93949-d690-43f3-8273-ae32013fb0d7)
  
  <p></p>
