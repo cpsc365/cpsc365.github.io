@@ -10,7 +10,7 @@
 
 ### Announcements
 
-* *Feb 28*: On Tuesday, March 1 from 4.30-5.30pm, John holds a special session to review previous questions from psets 1-3 via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
+* *Feb 28*: John holds a special session On Tuesday, March 1 from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
 * *Feb 23*: Our TF, John holds additional office hours on Thursdays from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
 
 <p></p> 
