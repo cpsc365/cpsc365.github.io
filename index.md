@@ -76,8 +76,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Discussion 1, Fri Feb 4**: 
   *  Time and links vary; [click to view the schedule and the links](/discussion)
   *  *Practice Problem*s: 
-     *  [Discussion 1](https://github.com/cpsc365/cpsc365.github.io/files/7999444/Dis1New.pdf)
-     *  [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8028289/Disc1Sol.pdf)
+     *  [Discussion 1](/psets)
 
 
  <p></p>
@@ -104,9 +103,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Discussion 2, Fri Feb 11**: 
   *  Time and location vary; [click to view the schedule](/discussion)
   *  *Practice Problem*s: 
-     * [Discussion 2](https://github.com/cpsc365/cpsc365.github.io/files/8045152/Disc2.pdf)
-     * [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8065382/Disc2Sol.pdf)
-
+     *  [Discussion 2](/psets)
+     
  <p></p>
  
 * **Class 7, Tue Feb 15: Proof of Correcteness Dijkstra’s algorithm, Implementation** 
@@ -129,9 +127,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Discussion 3, Fri Feb 18**: 
   *  Time and location vary; [click to view the schedule](/discussion)
      * Romm change of the session @ 11:00: ML104 
-  *  *Practice Problems*: 
-     *  [Discussion 3](https://github.com/cpsc365/cpsc365.github.io/files/8093847/Disc3.pdf)
-     *  [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8101143/Disc3Sol.pdf)
+  *  *Practice Problems*:
+     *  [Discussion 3](/psets)
+    
 
  <p></p>
  
@@ -158,9 +156,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  * **Discussion 4, Fri Feb 25**: 
    *  Time and location vary; [click to view the schedule and location info](/discussion)
-   *  *Practice Problems*: 
-      *  [Discussion 4](https://github.com/cpsc365/cpsc365.github.io/files/8137363/Disc4.pdf)
-      *  [Solution](https://github.com/cpsc365/cpsc365.github.io/files/8150613/Disc4Sols.pdf)
+   *  *Practice Problems*:
+      *  [Discussion 4](/psets)
 
  
  <p></p>
