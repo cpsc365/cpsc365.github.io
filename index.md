@@ -194,16 +194,20 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 13, Tue Mar 8: Dynamic Programming & Review **
+* **Class 13, Tue Mar 8: Dynamic Programming & Review**
 
-* **Review Session 
+
+<p></p>
+
+* **Review Session** 
   * Tue Mar 8 @ 4:30-5:30pm 
   * Tue Mar 8 @ 7:00-8:00pm
   * Wed Mar 9 @ 6:00-7:00pm
   * Wed Mar 9 @ 7:00-8:00pm
   
+<p></p>
 
-* **In-class Midterm Exam1, Thu Mar 10
+* **In-class Midterm Exam1, Thu Mar 10**
   * David Auditorium @ 2:30-3:45
   * One page (single-sided) of handwritten cheatsheet allowed 
   
