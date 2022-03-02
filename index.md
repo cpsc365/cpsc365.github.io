@@ -175,8 +175,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
  *  **Special Review Session, Tue Mar 1 @ 4:30 -5:30 pm:** 
-    * [Link to Live Session](https://yale.zoom.us/j/96298579332)
-    *  *The recording will be posted after session*
+    * [Click to view the recorded session](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a7720b4-b002-4a4f-a1fc-ae4b017a9892)
 
 
   <p></p>
