@@ -179,14 +179,16 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
  * **Class 12, Thur Mar 3: Dynamic Programming 2: Knapsack, longest increasing subsequence**
    *  *Reading*: Textbook Section 6
-   *  *Lecture notes*: will be released after lecture
-   *  *Videos*: will be posted after lecture
-
+   *  *Lecture notes*:
+      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8182826/Slide.12.-.Dynamic.Programming.2.pdf)
+   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fe88669-6e9a-42ef-b48b-ae32013fb4f1)
 <p></p>
 
  * **Discussion 5, Fri Mar 4**: 
    *  Time and location vary; [click to view the schedule and location info](/discussion)
-   *  *Practice Problems*: will be posted soon
+   *  *Practice Problems*: 
+      *  [Discussion 5](/psets)
+
 
 <p></p>
 
