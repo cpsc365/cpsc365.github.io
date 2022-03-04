@@ -10,15 +10,17 @@
 
 ### Announcements
 
-* *Mar 1*: Change of Alden's offie hours to 2:30 - 4:00pm, starting Mar 2. 
-
-* *Feb 28*: John holds a special session On Tuesday, March 1 from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
-* *Feb 23*: Our TF, John holds additional office hours on Thursdays from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
+<p></p> 
+* *Mar 3*: In-class Midterm Exam on Thursday, Mar 10 @ 2:30-3:45
+* *Mar 3*: Midterm Review Session on Tuesday(Mar 8) and Wednesday(Mar 10)
 
 <p></p> 
 
- * *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
+* *Mar 1*: Change of Alden's offie hours to 2:30 - 4:00pm, starting Mar 2. 
+* *Feb 23*: TF's office hours: Thursdays from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
 
+<p></p> 
+ * *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
 
 <h1></h1>
 
