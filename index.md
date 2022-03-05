@@ -11,8 +11,10 @@
 ### Announcements
 
 <p></p> 
+
 * *Mar 3*: In-class Midterm Exam on Thursday, Mar 10 @ 2:30-3:45
 * *Mar 3*: Midterm Review Session on Tuesday(Mar 8) and Wednesday(Mar 10)
+
 
 <p></p> 
 
