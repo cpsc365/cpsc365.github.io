@@ -197,8 +197,10 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 13, Tue Mar 8: Dynamic Programming & Review**
-
+* **Class 13, Tue Mar 8: DP 3: Floyd-Warshall, longest increasing subsequence**
+  * *Reading*: Textbook Section 6
+  * *Lecture notes*:
+  * *Videos*:
 
 <p></p>
 
