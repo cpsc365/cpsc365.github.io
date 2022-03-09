@@ -200,7 +200,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 13, Tue Mar 8: DP 3: Floyd-Warshall, longest increasing subsequence**
   * *Reading*: Textbook Section 6
   * *Lecture notes*:
-    * [lecture notes](https://github.com/cpsc365/cpsc365.github.io/files/8211281/CPSC.365.Lecture.13.-.Dynamic.Programming.3.pdf)
+    * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8211281/CPSC.365.Lecture.13.-.Dynamic.Programming.3.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa224801-cace-4ec1-9b51-ae32013fb50c)
 
 <p></p>
