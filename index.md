@@ -209,7 +209,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 <p></p>
 
 * **Class 14, Tue Mar 15: Network Flow 1: Max Flow, Min Cut, Ford-Fulkerson**
-  * *Reading*: 
+  * *Reading*: Textbook Section 7
   *  *Problem set*: 
   *  *Lecture notes*: 
   *  *Videos*: 
@@ -218,7 +218,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  <p></p>
  
  * **Class 16, Thur Mar 17: Network Flow 2: Ford-Fulkerson Analysis: Running Time, Correctness**
-   * *Reading*: 
+   * *Reading*: Textbook Section 7
    *  *Lecture notes*: 
    *  *Videos*: 
 
