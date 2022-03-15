@@ -217,7 +217,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  <p></p>
  
- * **Class 16, Thur Mar 17: Network Flow 1 2: Ford-Fulkerson Analysis: Running Time, Correctness**
+ * **Class 16, Thur Mar 17: Network Flow 2: Ford-Fulkerson Analysis: Running Time, Correctness**
    * *Reading*: 
    *  *Lecture notes*: 
    *  *Videos*: 
