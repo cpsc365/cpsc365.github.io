@@ -11,19 +11,8 @@
 ### Announcements
 
 <p></p> 
-
-* *Mar 3*: In-class Midterm Exam on Thursday, Mar 10 @ 2:30-3:45
-* *Mar 3*: Midterm Review Session on Tuesday(Mar 8) and Wednesday(Mar 10)
-
-
-<p></p> 
-
-* *Mar 1*: Change of Alden's offie hours to 2:30 - 4:00pm, starting Mar 2. 
-* *Feb 23*: TF's office hours: Thursdays from 4.30-5.30pm via Zoom: [https://yale.zoom.us/j/96298579332](https://yale.zoom.us/j/96298579332)
-
-<p></p> 
  
- * *Feb 22*: [Pset 4](/psets) posted; Due Mar 8 @ 2:30pm
+
 
 <h1></h1>
 
@@ -217,6 +206,20 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * David Auditorium @ 2:30-3:45
   * One page (single-sided) of handwritten cheatsheet allowed 
   
+<p></p>
 
+* **Class 14, Tue Mar 15: Network Flow 1: Max Flow, Min Cut, Ford-Fulkerson**
+  * *Reading*: 
+  *  *Problem set*: 
+  *  *Lecture notes*: 
+  *  *Videos*: 
+ 
+ 
+ <p></p>
+ 
+ * **Class 16, Thur Mar 17: Network Flow 1 2: Ford-Fulkerson Analysis: Running Time, Correctness**
+  * *Reading*: 
+  *  *Lecture notes*: 
+  *  *Videos*: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
