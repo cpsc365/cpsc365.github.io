@@ -12,7 +12,7 @@
 
 <p></p> 
  
-* pset5 is posted; Due is Apr 5 @ 2:30
+* Mar 15: Pset5 is posted; Due is Apr 5 @ 2:30
 
 <h1></h1>
 
