@@ -12,7 +12,7 @@
 
 <p></p> 
  
-
+* pset5 is posted; Due is Apr 5 @ 2:30
 
 <h1></h1>
 
@@ -208,11 +208,13 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   
 <p></p>
 
-* **Class 14, Tue Mar 15: Network Flow 1: Max Flow, Min Cut, Ford-Fulkerson**
+* **Class 15, Tue Mar 15: Network Flow 1: Max Flow, Min Cut, Ford-Fulkerson**
   * *Reading*: Textbook Section 7
   *  *Problem set*: 
+     * [Pset 5](/psets) posted; due Apr 5 @ 2:30 pm
   *  *Lecture notes*: 
-  *  *Videos*: 
+     *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8258052/CPSC.365.Lecture.15.-.Network.Flow.1.pdf)
+  *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1ddcdce-2cf0-4d57-91cc-ae32013fb53e)
  
  
  <p></p>
