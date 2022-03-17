@@ -11,7 +11,10 @@
 ### Announcements
 
 <p></p> 
- 
+
+* Mar 17: Virtual class meetings on Mar 29 and 31
+
+* Mar 17: No office hours and discussion sessions from Mar 17 to Mar 27
 * Mar 15: Pset5 is posted; Due is Apr 5 @ 2:30
 
 <h1></h1>
@@ -222,6 +225,13 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  * **Class 16, Thur Mar 17: Network Flow 2: Ford-Fulkerson Analysis: Running Time, Correctness**
    * *Reading*: Textbook Section 7
    *  *Lecture notes*: 
-   *  *Videos*: 
+   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be0a562d-6508-4c76-ad72-ae32013fb556)
+
+ <p></p>
+ 
+ * **No Discussion Session Mar 18**
+
+ <p></p>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
