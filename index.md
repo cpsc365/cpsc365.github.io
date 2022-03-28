@@ -178,6 +178,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 6
    *  *Lecture notes*:
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8182826/Slide.12.-.Dynamic.Programming.2.pdf)
+      * Scribe notes will be posted soon 
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fe88669-6e9a-42ef-b48b-ae32013fb4f1)
 <p></p>
 
@@ -193,6 +194,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Reading*: Textbook Section 6
   * *Lecture notes*:
     * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8211281/CPSC.365.Lecture.13.-.Dynamic.Programming.3.pdf)
+    * Scribe notes will be posted soon 
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa224801-cace-4ec1-9b51-ae32013fb50c)
 
 <p></p>
@@ -216,7 +218,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Problem set*: 
      * [Pset 5](/psets) posted; due Apr 5 @ 2:30 pm
   *  *Lecture notes*: 
-     *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8258052/CPSC.365.Lecture.15.-.Network.Flow.1.pdf)
+     * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8258052/CPSC.365.Lecture.15.-.Network.Flow.1.pdf)
+     * Scribe notes will be posted soon 
   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1ddcdce-2cf0-4d57-91cc-ae32013fb53e)
  
  
@@ -224,14 +227,32 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
  * **Class 16, Thur Mar 17: Network Flow 2: Ford-Fulkerson Analysis: Running Time, Correctness**
    * *Reading*: Textbook Section 7
-   *  *Lecture notes*: 
+   *  *Lecture notes*:  
+      *  Scribe notes will be posted soon 
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be0a562d-6508-4c76-ad72-ae32013fb556)
+  
 
  <p></p>
+
+ * **Class 17, Tue Mar 29: Max-flow/min-cut; proof of correctness of FF**
+   *  [Link to the live session](https://yale.zoom.us/j/94057532462)
+   * *Reading*: Textbook Section 7
+   *  *Lecture notes*: 
+   *  *video*:
  
- * **No Discussion Session Mar 18**
+  <p></p>
+ 
+ * **Class 18, Thur Mar 30: Bipartite matching, applications
+   *  [Link to the live session](https://yale.zoom.us/j/94057532462)
+   * *Reading*: Textbook Section 7
+   *  *Lecture notes*: 
+   *  *video*:
 
- <p></p>
+  <p></p>
+
+* **Discussion 6, Fri Apr 1**: 
+   *  Time and location vary; [click to view the schedule and location info](/discussion)
+   *  *Practice Problems*:
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
