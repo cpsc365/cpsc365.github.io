@@ -242,7 +242,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  
   <p></p>
  
- * **Class 18, Thur Mar 30: Bipartite matching, applications
+ * **Class 18, Thur Mar 30: Bipartite matching, applications**
    *  [Link to the live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 7
    *  *Lecture notes*: 
