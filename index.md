@@ -238,13 +238,14 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  [Link to the live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 7
    *  *Lecture notes*: 
+      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8375608/CPSC.365.Lecture.17_.Max.Flow.3.pdf) 
    *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6dbc3b63-4f6a-4243-89f8-ae67014a5c63)
  
   <p></p>
  
  * **Class 18, Thur Mar 30: Bipartite matching, applications**
    *  [Link to the live session](https://yale.zoom.us/j/94057532462)
-   * *Reading*: Textbook Section 7
+   *  *Reading*: Textbook Section 7
    *  *Lecture notes*: 
    *  *video*:
 
