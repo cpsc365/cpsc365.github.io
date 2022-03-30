@@ -31,4 +31,6 @@
 | Sun 7-8:30pm  | virtual   | [Link to Matthew's office hours](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
 | Sun 8:30-10pm | in-person   | AKW 2nd lounge   | Eric Xue   |
 
+* Note: Michal will be holding office hours on Mar 30 and Apr 6 (Wednesday( @ 4:30–6:00 pm (3/30, 4/6) on the second floor of AKW. There will be no office hours on Apr 1 and Apr 9 (Friday) @ 6–7:30
+
 
