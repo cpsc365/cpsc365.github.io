@@ -249,7 +249,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  [Link to the live session](https://yale.zoom.us/j/94057532462)
    *  *Reading*: Textbook Section 7
    *  *Lecture notes*: 
-   *  *video*:
+      *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8393565/CPSC.365.Lecture.18_.Max.Flow.4.pdf)
+   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8fa3c384-4f55-4121-9e78-ae69014c0d91)
 
   <p></p>
 
