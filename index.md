@@ -12,8 +12,6 @@
 
 <p></p> 
 
-* Apr 3: Prof. Wibisono's office hours in Apr 6 changed to Apr 4@ 2:30pm. 
-
 * Mar 29: Michal's Offie hours in Apr 1 and Apr 8 @ 6:00pm changed to Mar 30 and Apr 6 @ 4:30pm. 
 
 * Mar 15: Pset5 is posted; Due is Apr 5 @ 2:30
