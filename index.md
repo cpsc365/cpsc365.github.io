@@ -12,11 +12,10 @@
 
 <p></p> 
 
-* Mar 29: Michal's Offie hours Apr 1 and Apr 8 @ 6:00pm changed to Mar 30 and Apr 6 @ 4:30pm. 
+* Apr 3: Prof. Wibisono's office hours in Apr 6 changed to Apr 4@ 2:30pm. 
 
-* Mar 17: Virtual class meetings on Mar 29 and 31
+* Mar 29: Michal's Offie hours in Apr 1 and Apr 8 @ 6:00pm changed to Mar 30 and Apr 6 @ 4:30pm. 
 
-* Mar 17: No office hours and discussion sessions from Mar 17 to Mar 27
 * Mar 15: Pset5 is posted; Due is Apr 5 @ 2:30
 
 <h1></h1>
