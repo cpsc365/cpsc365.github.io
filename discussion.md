@@ -16,7 +16,7 @@
 
 | Time          |   Type| Location | Staff               |
 | :---:       |    :----:   |   :----:  |  :---:        |
-| * Wed 3-4:00pm  |      virtual      |[Link to Prof. Wibisono's office hours](https://yale.zoom.us/my/wibisono)  |Prof. Andre Wibisono |
+| Wed 3-4:00pm  |      virtual      |[Link to Prof. Wibisono's office hours](https://yale.zoom.us/my/wibisono)  |Prof. Andre Wibisono |
 | Mon 7-8:30pm  | in-person | AKW 2nd lounge  |Andrew Yuan      |
 | Mon 7-8:30pm  | virtual   | [Link to Andrew's office hours](https://yale.zoom.us/my/andrewjwei)  |Andrew Wei       |
 | Mon 8:30-10pm | in-person | AKW 2nd lounge  |Nevin George |
@@ -32,8 +32,6 @@
 | Sun 8:30-10pm | in-person   | AKW 2nd lounge   | Eric Xue   |
 
 * Note:
-
-  * Prof. Wibisono will be holding office hours on Apr 4 (monday) @ 2:30 pm in the AKW second floor lounge. There will be no office hours on Apr 6 @ 3:00 pm.  
   * Michal will be holding office hours on Mar 30 and Apr 6 (Wednesday) @ 4:30–6pm in the AKW second floor lounge. There will be no office hours on Apr 1 and Apr 8 (Friday) @ 6–7:30pm.
 
 
