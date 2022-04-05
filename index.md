@@ -264,7 +264,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=220670cf-7db1-4680-bdc4-ae32013fb905)
-  *  *Pset* : Pset 6 will be posted; Due is Apr 17 (Sunday) @11:59pm
+  *  *Pset* : [Pset 6](/psets) posted; Due is Apr 17 (Sunday) @11:59pm
 
 <p></p>
 
