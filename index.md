@@ -263,7 +263,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 18, Tue Apr 5: Complexity 1: Reductions, SAT, 3-SAT, NP**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
-  *  *video*: 
+  *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=220670cf-7db1-4680-bdc4-ae32013fb905)
   *  *Pset* : Pset 6 will be posted; Due is Apr 17 (Sunday) @11:59pm
 
 <p></p>
