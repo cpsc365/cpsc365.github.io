@@ -28,8 +28,8 @@
 | Apr 5  | 19                 | Satisfiability Problem                   | Complexity 2          | 8.2               |  PS6 out |
 | Apr 7  | 20                 | NP and NP-Complete Problems              | Complexity 3          | 8.3 - 8.4         |  PS5 in          |
 | Apr 12 | 21                 | Traveling Salesman and Hamiltonian Cycle | Complexity 4          | 8.5               | |
-| Apr 14 | 22                 | PSPACE Problems                          | Complexity 5          | 9.1 - 9.3         | PS6 in (4/17)/ PS7 out (4/18)   |
-| Apr 19 | 23                 | Load Balancing Problem                   | Approximation 1       | 11.1              |                  |
+| Apr 14 | 22                 | PSPACE Problems                          | Complexity 5          | 9.1 - 9.3         | PS6 in (4/17)   |
+| Apr 19 | 23                 | Load Balancing Problem                   | Approximation 1       | 11.1              |   PS7 out (4/18) |
 | Apr 21 | 24                 | Set Cover and Vertex Cover Problems      | Approximation 2       | 11.3 - 11.4       |                  |
 | Apr 26 | 25                 | PTAS for Knapsack Problem                | Approximation 3       | 11.8              |      PS7 in              |
 | Apr 28 | 26                 | Midterm 2                                |                       |                   |          |
