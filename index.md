@@ -12,9 +12,11 @@
 
 <p></p> 
 
+* Apr 4: Pset5 due is extended to Apr 7 @ 2:30
+
 * Mar 29: Michal's Offie hours in Apr 1 and Apr 8 @ 6:00pm changed to Mar 30 and Apr 6 @ 4:30pm. 
 
-* Mar 15: Pset5 is posted; Due is Apr 5 @ 2:30
+
 
 <h1></h1>
 
@@ -255,6 +257,27 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  Time and location vary; [click to view the schedule and location info](/discussion)
    *  *Practice Problems*:
       *  [Discussion 6](/psets)
+
+<p></p>
+
+* **Class 18, Tue Apr 5: Complexity 1: Reductions, SAT, 3-SAT, NP**
+  *  *Reading*: Textbook Section 8
+  *  *Lecture notes*: 
+  *  *video*: 
+  *  *Pset* : Pset 6 will be posted; Due is Apr 17 (Sunday) @11:59pm
+
+<p></p>
+
+* **Class 19, Thur Apr 7: Complexity 2: Examples**
+  *  *Reading*: Textbook Section 8
+  *  *Lecture notes*: 
+  *  *video*: 
+  *  *Pset* : Pset 5 due
+
+<p></p>
+
+* **Discussion 7, Fri Apr 8**: 
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
