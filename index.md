@@ -12,6 +12,8 @@
 
 <p></p> 
 
+* Apr 7: Adit's office hours on Apr 7 (Thursday @ 7:00 pm) is cancelled. 
+
 * Apr 4: Pset5 due is extended to Apr 7 @ 2:30
 
 * Mar 29: Michal's Offie hours in Apr 1 and Apr 8 @ 6:00pm changed to Mar 30 and Apr 6 @ 4:30pm. 
