@@ -277,8 +277,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 * **Discussion 7, Fri Apr 8**: 
   *  Time and location vary; [click to view the schedule and location info](/discussion)
-  *  *Practice Problems*:
-  *  *  [Discussion 7](/psets)
+  *  * Practice Problems*:
+     * [Discussion 7](/psets)
 
 
 
