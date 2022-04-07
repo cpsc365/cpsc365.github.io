@@ -270,12 +270,15 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 19, Thur Apr 7: Complexity 2: Examples**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
-  *  *video*: 
+  *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5575bf4-c3a0-4a5e-9daa-ae32013fbb13)
   *  *Pset* : Pset 5 due
 
 <p></p>
 
 * **Discussion 7, Fri Apr 8**: 
+  *  Time and location vary; [click to view the schedule and location info](/discussion)
+  *  *Practice Problems*:
+  *  *  [Discussion 7](/psets)
 
 
 
