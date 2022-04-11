@@ -259,17 +259,19 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 18, Tue Apr 5: Complexity 1: Reductions, SAT, 3-SAT, NP**
+* **Class 19, Tue Apr 5: Complexity 1: Reductions, SAT, 3-SAT, NP**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
+     *  [Lecture 19 + 20](https://github.com/cpsc365/cpsc365.github.io/files/8460427/CPSC.365.Lecture.19.%2B.20.pdf)
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=220670cf-7db1-4680-bdc4-ae32013fb905)
   *  *Pset* : [Pset 6](/psets) posted; Due is Apr 17 (Sunday) @11:59pm
 
 <p></p>
 
-* **Class 19, Thur Apr 7: Complexity 2: Examples**
+* **Class 20, Thur Apr 7: Complexity 2: Examples**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
+     *  [Lecture 19 + 20](https://github.com/cpsc365/cpsc365.github.io/files/8460427/CPSC.365.Lecture.19.%2B.20.pdf)
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5575bf4-c3a0-4a5e-9daa-ae32013fbb13)
   *  *Pset* : Pset 5 due
 
