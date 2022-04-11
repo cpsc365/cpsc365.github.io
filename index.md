@@ -282,6 +282,25 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Practice Problems*:
      * [Discussion 7](/psets)
 
+<p></p>
+
+* **Class 20, Tue Apr 12: Complexity 3: NP, SAT, 3-SAT**
+  *  *Reading*: Textbook Section 8
+  *  *Lecture notes*:
+  *  *video*: 
+
+
+<p></p>
+
+* **Class 21, Thur Apr 14: Complexity 4: 2-SAT, examples**
+  *  *Reading*: Textbook Section 8
+  *  *Lecture notes*:
+  *  *video*: 
+
+
+<p></p>
+
+* **Discussion 8, Fri Apr 15**:
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
