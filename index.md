@@ -12,10 +12,12 @@
 
 <p></p> 
 
-* Apr 7: Adit's office hours on Apr 7 (Thursday @ 7:00 pm) is cancelled. 
+* Apr 13: Class 21(Apr 14) is virtual:[https://yale.zoom.us/j/94057532462](https://yale.zoom.us/j/94057532462)
+
+* Apr 13: A Pset6 walktrough on Thursday @ 7:00 pm:[https://yale.zoom.us/j/7342391303](https://yale.zoom.us/j/7342391303)
+* Apr 13: Adit's office hours(Thursday @ 7:00 pm) move to 3:45 pm in Apr 14 
 
 * Apr 4: Pset6 is posted. Due is Apr 17 @ 11:59pm
-* Apr 4: Pset5 due is extended to Apr 7 @ 2:30pm
 
 <h1></h1>
 
@@ -287,12 +289,13 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 20, Tue Apr 12: Complexity 3: NP, SAT, 3-SAT**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
-  *  *video*: 
+  *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8f965d0-3f75-49c3-8aa9-ae32013fbb2e)
 
 
 <p></p>
 
 * **Class 21, Thur Apr 14: Complexity 4: 2-SAT, examples**
+  *  [Link to live session](https://yale.zoom.us/j/94057532462)
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
   *  *video*: 
@@ -301,6 +304,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 <p></p>
 
 * **Discussion 8, Fri Apr 15**:
+  *  Time and location vary; [click to view the schedule and location info](/discussion)
+  *  *Practice Problems*: 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
