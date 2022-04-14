@@ -12,12 +12,10 @@
 
 <p></p> 
 
-* Apr 13: Class 21(Apr 14) is virtual:[https://yale.zoom.us/j/94057532462](https://yale.zoom.us/j/94057532462)
+* Apr 14:PS6 Deadline extended to  Apr 19 Tuesday @ 2:30 pm
 
 * Apr 13: A Pset6 walktrough on Thursday @ 7:00 pm:[https://yale.zoom.us/j/7342391303](https://yale.zoom.us/j/7342391303)
-* Apr 13: Adit's office hours(Thursday @ 7:00 pm) move to 3:45 pm in Apr 14 
-
-* Apr 4: Pset6 is posted. Due is Apr 17 @ 11:59pm
+* Apr 13: Adit's office hours(Thursday @ 7:00 pm) move to 3:45 pm on Apr 14 
 
 <h1></h1>
 
