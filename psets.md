@@ -8,8 +8,8 @@
 | [PS 2](files/pset/PS2new.pdf)     |  Tue Feb 8 @ 2:30pm| posted on [Canvas](https://yale.instructure.com/courses/73872)|
 | [PS 3](files/pset/PS3.pdf)        |  Tue Feb 22 @ 2:30pm| posted on [Canvas](https://yale.instructure.com/courses/73872)  |
 | [PS 4](files/pset/PS4.pdf)       |   Tue Mar 8 @ 2:30pm        |  posted on [Canvas](https://yale.instructure.com/courses/73872)         |
-| [PS 5](files/pset/PS5.pdf)        |          Tue Apr 5 @ 2:30pm       | - |
-| [PS 6](files/pset/PS6.pdf)        |          Sun Apr 17 @ 12:59pm           |-          |
+| [PS 5](files/pset/PS5.pdf)        |          Thr Apr 7 @ 2:30pm       | - |
+| [PS 6](files/pset/PS6.pdf)        |          Tue Apr 19 @ 2:30pm           |-          |
 | PS 7        |          Sun Apr 26 @ 2:30pm            |-          |
 
 
@@ -47,6 +47,7 @@ by yourself.
 | [Discussion 5](files/pset/Disc5.pdf)| Fri Mar 4  | posted on [Canvas](https://yale.instructure.com/courses/73872) |
 | [Discussion 6](files/pset/Disc6.pdf)| Fri Apr 1  | posted on [Canvas](https://yale.instructure.com/courses/73872) |
 | [Discussion 7](files/pset/Disc7.pdf)| Fri Apr 8  | posted on [Canvas](https://yale.instructure.com/courses/73872) |
+| [Discussion 8](files/pset/Disc8.pdf)| Fri Apr 8  |  |
 
 
 
