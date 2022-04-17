@@ -284,7 +284,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 20, Tue Apr 12: Complexity 3: NP, SAT, 3-SAT**
+* **Class 21, Tue Apr 12: Complexity 3: NP, SAT, 3-SAT**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8f965d0-3f75-49c3-8aa9-ae32013fbb2e)
@@ -292,7 +292,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 21, Thur Apr 14: Complexity 4: 2-SAT, examples**
+* **Class 22, Thur Apr 14: Complexity 4: 2-SAT, examples**
   *  [Link to live session](https://yale.zoom.us/j/94057532462)
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
