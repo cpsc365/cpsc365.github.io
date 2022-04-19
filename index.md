@@ -264,7 +264,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
      *  [Lecture 19 + 20](https://github.com/cpsc365/cpsc365.github.io/files/8460427/CPSC.365.Lecture.19.%2B.20.pdf)
-     *  Scribe Notes[https://github.com/cpsc365/cpsc365.github.io/files/8509341/Scribe.Notes.Lec.20.pdf]
+     *  [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8509341/Scribe.Notes.Lec.20.pdf)
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5575bf4-c3a0-4a5e-9daa-ae32013fbb13)
   *  *Pset* : Pset 5 due
 
