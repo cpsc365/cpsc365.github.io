@@ -14,9 +14,6 @@
 
 * Apr 14:PS6 Deadline extended to  Apr 19 Tuesday @ 2:30 pm
 
-* Apr 13: A Pset6 walktrough on Thursday @ 7:00 pm:[https://yale.zoom.us/j/7342391303](https://yale.zoom.us/j/7342391303)
-* Apr 13: Adit's office hours(Thursday @ 7:00 pm) move to 3:45 pm on Apr 14 
-
 <h1></h1>
 
 ### Course Content
@@ -146,7 +143,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 5
    *  *Lecture notes*: 
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8136561/CPSC.365.Lecture.10.-.Divide.and.Conquer.2.pdf)
-      * Scribe notes will be posted soon 
+      * [Scribe notes](https://github.com/cpsc365/cpsc365.github.io/files/8509344/Scribe.Notes.Lec.10.pdf)
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a6f78f8-5ad3-4314-9232-ae4601600823)
 
  <p></p>
@@ -163,7 +160,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 6
    *  *Lecture notes*: 
       *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8164874/Slide.11.-.Dynamic.Programming.1.pdf)
-      *  Scribe notes will be posted soon 
+      *  [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8509369/Scribe.Notes.Lec.11.pdf)
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2786b14a-b71d-4b24-b1e1-ae32013fb4dc) 
  
  <p></p>
@@ -178,7 +175,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 6
    *  *Lecture notes*:
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8182826/Slide.12.-.Dynamic.Programming.2.pdf)
-      * Scribe notes will be posted soon 
+      * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8509370/Scribe.Notes.Lec.12.pdf)
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fe88669-6e9a-42ef-b48b-ae32013fb4f1)
 <p></p>
 
@@ -194,7 +191,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   * *Reading*: Textbook Section 6
   * *Lecture notes*:
     * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8211281/CPSC.365.Lecture.13.-.Dynamic.Programming.3.pdf)
-    * Scribe notes will be posted soon 
+    * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8509375/Scribe.Notes.Lec.13.pdf)
   * *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa224801-cace-4ec1-9b51-ae32013fb50c)
 
 <p></p>
@@ -238,7 +235,8 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  [Link to the live session](https://yale.zoom.us/j/94057532462)
    * *Reading*: Textbook Section 7
    *  *Lecture notes*: 
-      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8375608/CPSC.365.Lecture.17_.Max.Flow.3.pdf) 
+      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8375608/CPSC.365.Lecture.17_.Max.Flow.3.pdf)
+      *  Scribe notes will be posted soon  
    *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6dbc3b63-4f6a-4243-89f8-ae67014a5c63)
  
   <p></p>
@@ -248,6 +246,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 7
    *  *Lecture notes*: 
       *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8393565/CPSC.365.Lecture.18_.Max.Flow.4.pdf)
+      *  Scribe notes will be posted soon 
    *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8fa3c384-4f55-4121-9e78-ae69014c0d91)
 
   <p></p>
@@ -263,8 +262,9 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
      *  [Lecture 19 + 20](https://github.com/cpsc365/cpsc365.github.io/files/8460427/CPSC.365.Lecture.19.%2B.20.pdf)
+     *  Scribe notes will be posted soon 
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=220670cf-7db1-4680-bdc4-ae32013fb905)
-  *  *Pset* : [Pset 6](/psets) posted; Due is Apr 17 (Sunday) @11:59pm
+  *  *Pset* : [Pset 6](/psets) posted; Due is Apr 19 (Sunday) @2:30pm
 
 <p></p>
 
@@ -272,6 +272,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
      *  [Lecture 19 + 20](https://github.com/cpsc365/cpsc365.github.io/files/8460427/CPSC.365.Lecture.19.%2B.20.pdf)
+     *  Scribe Notes[https://github.com/cpsc365/cpsc365.github.io/files/8509341/Scribe.Notes.Lec.20.pdf]
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5575bf4-c3a0-4a5e-9daa-ae32013fbb13)
   *  *Pset* : Pset 5 due
 
@@ -287,6 +288,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 21, Tue Apr 12: Complexity 3: NP, SAT, 3-SAT**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
+     *  Scribe notes will be posted soon 
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8f965d0-3f75-49c3-8aa9-ae32013fbb2e)
 
 
@@ -296,6 +298,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  [Link to live session](https://yale.zoom.us/j/94057532462)
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
+     *  Scribe notes will be posted soon 
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9736ade1-17cf-4963-aa4e-ae77014e2780)
 
 
@@ -306,5 +309,28 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Practice Problems*:
      * [Discussion 8](/psets) 
 
+<p></p>
+
+* **Class 23, Tue Apr 19: Complexity 5: **
+  *  *Reading*: Textbook Section 8
+  *  *Lecture notes*:
+  *  *video*: 
+  *  *Pset* : Pset 6 due @ 2:30 pm
+
+<p></p>
+
+* **Class 24, Tue Apr 21: Complexity 6: **
+  *  *Reading*: Textbook Section 8
+  *  *Lecture notes*:
+  *  *video*: 
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
