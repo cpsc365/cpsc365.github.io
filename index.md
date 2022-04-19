@@ -311,7 +311,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 23, Tue Apr 19: Complexity 5: **
+* **Class 23, Tue Apr 19: Complexity 5:**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
   *  *video*: 
@@ -319,7 +319,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Class 24, Tue Apr 21: Complexity 6: **
+* **Class 24, Tue Apr 21: Complexity 6:**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
   *  *video*: 
