@@ -315,7 +315,10 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
   *  *video*: 
-  *  *Pset* : Pset 6 due @ 2:30 pm
+  *  *Pset* : 
+     *  Pset 6 due @ 2:30 pm
+     *  [Pset 7](/psets) posted; due Apr 26 
+ 
 
 <p></p>
 
