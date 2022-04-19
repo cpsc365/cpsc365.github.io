@@ -10,7 +10,7 @@
 | [PS 4](files/pset/PS4.pdf)       |   Tue Mar 8 @ 2:30pm        |  posted on [Canvas](https://yale.instructure.com/courses/73872)         |
 | [PS 5](files/pset/PS5.pdf)        |          Thr Apr 7 @ 2:30pm       | - |
 | [PS 6](files/pset/PS6.pdf)        |          Tue Apr 19 @ 2:30pm           |-          |
-| PS 7 (files/pset/PS7.pdf)         |          Sun Apr 26 @ 11:59pm            |-          |
+| [PS 7](files/pset/PS7.pdf)         |          Sun Apr 26 @ 11:59pm            |-          |
 
 
 > Submission Instructions:
