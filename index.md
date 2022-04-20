@@ -12,7 +12,7 @@
 
 <p></p> 
 
-* Apr 14:PS6 Deadline extended to  Apr 19 Tuesday @ 2:30 pm
+* Apr 20: In-person Office Hours on Apr 21 (Thursday) : Adit(ULA)'s office hours at 4:45pm and John(TF)'s office hours at 6:30pm   
 
 <h1></h1>
 
