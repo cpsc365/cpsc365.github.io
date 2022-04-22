@@ -47,7 +47,8 @@ by yourself.
 | [Discussion 5](files/pset/Disc5.pdf)| Fri Mar 4  | posted on [Canvas](https://yale.instructure.com/courses/73872) |
 | [Discussion 6](files/pset/Disc6.pdf)| Fri Apr 1  | posted on [Canvas](https://yale.instructure.com/courses/73872) |
 | [Discussion 7](files/pset/Disc7.pdf)| Fri Apr 8  | posted on [Canvas](https://yale.instructure.com/courses/73872) |
-| [Discussion 8](files/pset/Disc8.pdf)| Fri Apr 8  |  posted on [Canvas](https://yale.instructure.com/courses/73872) |
+| [Discussion 8](files/pset/Disc8.pdf)| Fri Apr 15 |  posted on [Canvas](https://yale.instructure.com/courses/73872) |
+| [Discussion 9](files/pset/Disc9.pdf)| Fri Apr 22  |  - |
 
 
 
