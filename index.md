@@ -12,7 +12,7 @@
 
 <p></p> 
 
-* Apr 20: In-person Office Hours on Apr 21 (Thursday) : Adit(ULA)'s office hours at 4:45pm and John(TF)'s office hours at 6:30pm   
+* Apr 21: Nevin's discussion session on Apr 22 @ 12:00pm cancelled 
 
 <h1></h1>
 
@@ -306,19 +306,27 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 23, Tue Apr 19: Complexity 5:**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
-  *  *video*: 
+     *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8536500/CPSC.365.Lecture.23.-.Complexity.5.pdf)
+  *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ddf9e18-8169-413d-802e-ae32013fbd84)
   *  *Pset* : 
      *  Pset 6 due @ 2:30 pm
      *  [Pset 7](/psets) posted; due Apr 26 
  
-
 <p></p>
 
 * **Class 24, Tue Apr 21: Complexity 6:**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
-  *  *video*: 
+     *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8536478/CPSC.365.Lecture.24.-.Complexity.6.pdf)
+  *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f4cdd38-a7ea-48b5-acc7-ae32013fbd9e)
 
+<p></p>
+
+* **Discussion 9, Fri Apr 22**:
+  *  Time and location vary; [click to view the schedule and location info](/discussion)
+     * Nevin's discussion session @ 12:00pm cancelled 
+  *  *Practice Problems*:
+     * [Discussion 9](/psets) 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
