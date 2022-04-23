@@ -337,13 +337,14 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 25, Tue Apr 26: Review:**
   *  *Lecture notes*:
   *  *video*:
-  *  *Pset: Pset 7 Due 
+  *  Pset: Pset 7 Due 
 
 
 <p></p> 
 
 * **In-class Midterm Exam1, Thu Apr 28:**
-
+  * David Auditorium @ 2:30-3:45
+  * One page (doubled-sided) of handwritten cheatsheet allowed 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
