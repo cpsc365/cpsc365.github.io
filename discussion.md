@@ -22,18 +22,14 @@
 | Mon 8:30-10pm | in-person | AKW 2nd lounge  |Nevin George |
 | Mon 8:30-10pm | virtual   |[Link to Alex's office hours](https://yale.zoom.us/j/9200758820)  |Alex Chen        |
 | Wed 2:30-4:00 pm | in-person |  AKW 2nd lounge |Alden Tan         |
-| * Thur 4-5:30pm | virtual | [Link to John's office hours](https://yale.zoom.us/j/7342391303)|John Lazarsfeld (TF)|
-| * Thur 7-8:30pm | in-person | AKW 2nd lounge |Adit Gupta     |
+| Thur 4-5:30pm | virtual | [Link to John's office hours](https://yale.zoom.us/j/7342391303)|John Lazarsfeld (TF)|
+| Thur 7-8:30pm | in-person | AKW 2nd lounge |Adit Gupta     |
 | Fri 6-7:30pm  | in-person | AKW 2nd lounge |Michal Gerasimiuk |
-| Sat 1-2:30pm  | in-person | AKW 2nd lounge  |Rohit Giridharan    |
+| * Sat 1-2:30pm  | in-person | AKW 2nd lounge  |Rohit Giridharan    |
 | Sun 1-2:30pm  | virtual  |[Link to Michelle's office hours](https://yale.zoom.us/j/2272119184?pwd=dlQ1V2lXU2M4bFVubG1sb1ZaNmRoZz09) | Michelle Goh       |
 | Sun 7-8:30pm  | in-person |  AKW 2nd lounge | Adit Gupta |
 | Sun 7-8:30pm  | virtual   | [Link to Matthew's office hours](https://yale.zoom.us/j/9916776114)  |Matthew Zhang    |
 | Sun 8:30-10pm | in-person   | AKW 2nd lounge   | Eric Xue   |
 
 * Note:
-  * John will be holding in-person office hours on Apr 21 (Thursday) at 6:30 pm in AKW 2nd lounge
-  * Adit will be holding in-person office hours on Apr 21 (Thursday) at 4:45pm in AKW 2nd lounge
-
-
-
+  * Rohit's office hours on Apr 23 @ 1:00 pm moved to Apr 24 @ 4:00 pm via zoom: https://yale.zoom.us/j/98886949491.
