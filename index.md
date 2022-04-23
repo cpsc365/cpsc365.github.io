@@ -177,6 +177,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8182826/Slide.12.-.Dynamic.Programming.2.pdf)
       * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8509370/Scribe.Notes.Lec.12.pdf)
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fe88669-6e9a-42ef-b48b-ae32013fb4f1)
+
 <p></p>
 
  * **Discussion 5, Fri Mar 4**: 
@@ -208,7 +209,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
      * [Pset 5](/psets) posted; due Apr 5 @ 2:30 pm
   *  *Lecture notes*: 
      * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8258052/CPSC.365.Lecture.15.-.Network.Flow.1.pdf)
-     * Scribe notes will be posted soon 
+     * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8546293/Scribe.Notes.Lec.15.pdf)
   *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1ddcdce-2cf0-4d57-91cc-ae32013fb53e)
  
  
@@ -228,7 +229,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    * *Reading*: Textbook Section 7
    *  *Lecture notes*: 
       * [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8375608/CPSC.365.Lecture.17_.Max.Flow.3.pdf)
-      *  Scribe notes will be posted soon  
+      * [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8546292/Scribe.Notes.Lec.17.pdf)
    *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6dbc3b63-4f6a-4243-89f8-ae67014a5c63)
  
   <p></p>
@@ -238,7 +239,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
    *  *Reading*: Textbook Section 7
    *  *Lecture notes*: 
       *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8393565/CPSC.365.Lecture.18_.Max.Flow.4.pdf)
-      *  Scribe notes will be posted soon 
+      *  [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8546291/Scribe.Notes.Lec.18.pdf)
    *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8fa3c384-4f55-4121-9e78-ae69014c0d91)
 
   <p></p>
@@ -327,6 +328,19 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
      * Nevin's discussion session @ 12:00pm cancelled 
   *  *Practice Problems*:
      * [Discussion 9](/psets) 
+
+
+<p></p>
+
+* **Class 25, Tue Apr 26: Review:**
+  *  *Lecture notes*:
+  *  *video*:
+  *  *Pset: Pset 7 Due 
+
+
+<p></p> 
+
+* **In-class Midterm Exam1, Thu Apr 28:**
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
