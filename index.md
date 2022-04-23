@@ -12,6 +12,8 @@
 
 <p></p> 
 
+* Apr 23: Rohit's office hours (Sat 1pm) moved toSunday 4/24 from 4-5:30 PM via zoom: https://yale.zoom.us/j/98886949491.
+
 * Apr 21: Nevin's discussion session on Apr 22 @ 12:00pm cancelled 
 
 <h1></h1>
