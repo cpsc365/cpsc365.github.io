@@ -341,7 +341,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p>
 
-* **Review Session**
+* **Review Session: **
   * Eric (ULA): Apr 25 Mon @ 6pm in ML104
   * John (TF): Apr 26 Tue @ 4:30 pm in HLH17 05 - will be recorded
   * Rohit (ULA): Apr 27 Wed @ 6pm in BCT CO31 
