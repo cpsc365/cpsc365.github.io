@@ -339,6 +339,15 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *video*:
   *  Pset: Pset 7 Due 
 
+<p></p>
+
+* **Review Session**
+  * Eric (ULA): Apr 25 Mon @ 6pm in ML104
+  * John (TF): Apr 26 Tue @ 4:30 pm in HLH17 05 - will be recorded
+  * Rohit (ULA): Apr 27 Wed @ 6pm in BCT CO31 
+  * Rohit (ULA): Apr 27 Wed @ 6pm in BCT CO31 
+  * Alden (ULA): Apr 27 Wed @ 7pm in ML221 
+
 
 <p></p> 
 
