@@ -348,7 +348,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 <p></p> 
 
-* **In-class Midterm Exam1, Thu Apr 28:**
+* **In-class Midterm Exam2, Thu Apr 28:**
   * David Auditorium @ 2:30-3:45
   * One page (doubled-sided) of handwritten cheatsheet allowed 
 
