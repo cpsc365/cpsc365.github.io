@@ -257,7 +257,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*: 
      *  [Lecture 19 + 20](https://github.com/cpsc365/cpsc365.github.io/files/8460427/CPSC.365.Lecture.19.%2B.20.pdf)
-     *  Scribe notes will be posted soon 
+     *  [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8551250/Scribe.Notes.Lec.19.pdf)
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=220670cf-7db1-4680-bdc4-ae32013fb905)
   *  *Pset* : [Pset 6](/psets) posted; Due is Apr 19 (Sunday) @2:30pm
 
@@ -310,6 +310,7 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
      *  [Lecture Slides](https://github.com/cpsc365/cpsc365.github.io/files/8536500/CPSC.365.Lecture.23.-.Complexity.5.pdf)
+     *  [Scribe Notes](https://github.com/cpsc365/cpsc365.github.io/files/8551251/Scribe.Notes.Lec.23.pdf)
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ddf9e18-8169-413d-802e-ae32013fbd84)
   *  *Pset* : 
      *  Pset 6 due @ 2:30 pm
