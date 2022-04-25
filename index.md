@@ -12,7 +12,7 @@
 
 <p></p> 
 
-*  Apr 25: Zoom link Change for office hours on Apr 25th at 7:00 pm: https://yale.zoom.us/j/93296101411
+*  Apr 25: Zoom link change for office hours on Apr 25th at 7:00 pm: https://yale.zoom.us/j/93296101411
 
 <h1></h1>
 
