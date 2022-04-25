@@ -9,7 +9,7 @@
 | [PS 3](files/pset/PS3.pdf)        |  Tue Feb 22 @ 2:30pm| posted on [Canvas](https://yale.instructure.com/courses/73872)  |
 | [PS 4](files/pset/PS4.pdf)       |   Tue Mar 8 @ 2:30pm        |  posted on [Canvas](https://yale.instructure.com/courses/73872)         |
 | [PS 5](files/pset/PS5.pdf)        |          Thr Apr 7 @ 2:30pm       | posted on [Canvas](https://yale.instructure.com/courses/73872) |
-| [PS 6](files/pset/PS6.pdf)        |          Tue Apr 19 @ 2:30pm           |-          |
+| [PS 6](files/pset/PS6.pdf)        |          Tue Apr 19 @ 2:30pm           | posted on [Canvas](https://yale.instructure.com/courses/73872)         |
 | [PS 7](files/pset/PS7.pdf)         |          Tue Apr 26 @ 11:59pm            |-          |
 
 
