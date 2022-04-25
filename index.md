@@ -220,7 +220,6 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
  * **Class 16, Thur Mar 17: Network Flow 2: Ford-Fulkerson Analysis: Running Time, Correctness**
    * *Reading*: Textbook Section 7
    *  *Lecture notes*:  
-      *  Scribe notes will be posted soon 
    *  *Videos*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be0a562d-6508-4c76-ad72-ae32013fb556)
   
 
@@ -283,7 +282,6 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 * **Class 21, Tue Apr 12: Complexity 3: NP, SAT, 3-SAT**
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
-     *  Scribe notes will be posted soon 
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c8f965d0-3f75-49c3-8aa9-ae32013fbb2e)
 
 
@@ -293,7 +291,6 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
   *  [Link to live session](https://yale.zoom.us/j/94057532462)
   *  *Reading*: Textbook Section 8
   *  *Lecture notes*:
-     *  Scribe notes will be posted soon 
   *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9736ade1-17cf-4963-aa4e-ae77014e2780)
 
 
