@@ -12,9 +12,11 @@
 
 <p></p> 
 *  Apr 25: In-class exam on Apr 28 Thur at 2:30pm
+
+<p></p> 
+
 *  Apr 25: Review sessions for the midterm - Check the location and time info below 
 
-*  Apr 25: Zoom link change for office hours on Apr 25th at 7:00 pm: https://yale.zoom.us/j/93296101411
 
 <h1></h1>
 
