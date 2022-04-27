@@ -338,14 +338,16 @@ Textbook: *Algorithm Design* written by Jon Kleinberg and Éva Tardos
 
 * **Class 25, Tue Apr 26: Review:**
   *  *Lecture notes*:
-  *  *video*:
+     *  [Lecture sldies](https://github.com/cpsc365/cpsc365.github.io/files/8574036/CPSC.365.Lecture.25.-.Review.pdf)
+  *  *video*: [Click to view the recorded lecture](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3430cdb7-042a-45f0-9e25-ae32013fbdb7)
   *  Pset: Pset 7 Due 
 
 <p></p>
 
 * **Review Session:**
   * Michal (ULA): Apr 25 Mon @ 6pm in ML104
-  * John (TF): Apr 26 Tue @ 4:30 pm in HLH17 05 - will be recorded
+  * John (TF): Apr 26 Tue @ 4:30 pm in HLH17 05
+    * [Click to view the recorded session](https://yale.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39bf8098-bcf3-48c7-a110-ae8400237e73) 
   * Michal (ULA): Apr 27 Wed @ 6pm in BCT CO31 
   * Alden (ULA): Apr 27 Wed @ 7pm in ML221 
 
